@@ -1,38 +1,29 @@
 import requests, json, os
 import time
 
-offset = 0
-missed = ["swsh10.json", "swsh11.json", "swshp.json", "xy12.json"]
-card_type = "Pokemon"
 def main():
-    running_path = os.getcwd() + "\\Card-Collection"  #Folder with all things related to that game
-    game_path = os.path.dirname(running_path) + '\\' + card_type
-    card_sets_path = os.path.dirname(running_path) + '\\' + card_type + "\\sets" #Folder with all sets
+    running_path = os.getcwd() + "\\" #Folder with all things related to that game
 
-    files = os.listdir(card_sets_path)
-    for i, set_file in enumerate(files[offset:]):
-        image_folder_path = game_path + "\\imgs\\" + set_file[:-4] #Folder with all imgs
-        if not os.path.exists(image_folder_path):
-            os.makedirs(image_folder_path)
+    with open("pokemon_tcg_ids.json") as pokemon_ids:
+        pokemon_ids = json.load(pokemon_ids)
+        for key in pokemon_ids:
+            if 'ids' not in pokemon_ids[key]:
+                with open('Sets/' + pokemon_ids[key]['id'] + '.json', 'r') as current_set:
+                    current_set = json.load(current_set)
+                    print('Working on: ' + key)
+                    for card in current_set:
+                        img = card['images']['small']
+                        new_file_name = img.replace('https://images.pokemontcg.io', 'Imgs/Pokemon')
+                        
+                        if not os.path.exists(running_path + new_file_name[:new_file_name.rfind('/')]):
+                            os.makedirs(running_path + new_file_name[:new_file_name.rfind('/')])
 
-        current_imgs = os.listdir(game_path + "\\imgs\\" + set_file[:-4])
-        print("Starting file:", i + 1 + offset, " File name:", set_file)
-        try:
-            with open(card_sets_path + "\\" + set_file, 'r') as file:
-                cardList = json.load(file)
-                for card in cardList:
-                    img_data = requests.get(card["images"]["small"]).content
-                    card_id = card["id"]
-                    card_id = card_id.replace("?", "question")
-                    if card_id + ".png" not in current_imgs:
-                        with open(image_folder_path + "\\" + card_id + ".png", 'wb') as handler:
+                        img_data = requests.get(img).content
+                        with open(new_file_name, 'wb') as handler:
                             handler.write(img_data)
-        except:
-            print("Error in file:", i + 1 + offset, " File name:", set_file)
-            missed.append(i + 1 + offset)
+                        
 
 if __name__ == "__main__":
     startTime = time.time()
     main()
     print(time.time() - startTime)
-    print("List of missed sets:" + ", ".join(missed))

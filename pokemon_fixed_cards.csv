@@ -1,0 +1,2339 @@
+CardName,CardNum,SetID,Normal,Holo,Reverse
+Fennekin,3,mcd14,0,1,0
+Froakie,4,mcd14,0,1,0
+Honedge,7,mcd14,0,1,0
+Lotad,2,mcd15,0,1,0
+Pikachu,6,mcd15,0,2,0
+Mudkip,5,mcd15,0,1,0
+Staryu,4,mcd15,0,1,0
+Rattata,,xy9,1,0,0
+Gyarados Spirit Link,,xy9,1,0,0
+Potion,,xy9,1,0,0
+Scizor Spirit Link,,xy9,2,0,0
+Tierno,,xy9,2,0,0
+Evosoda,,g1,1,0,0
+Poke Ball,,g1,1,0,0
+Darumaka,,sm10,1,0,0
+Litten,26,sm10,1,0,0
+Poliwag,36,sm10,1,0,0
+Poliwag,37,sm10,1,0,0
+Tentacool,,sm10,1,0,0
+Tentacruel,,sm10,1,0,0
+Seel,,sm10,1,0,0
+Froakie,,sm10,1,0,0
+Frogadier,,sm10,1,0,0
+Pyukumuku,,sm10,2,0,0
+Pikachu,,sm10,1,0,0
+Geodude,,sm10,1,0,0
+Rhyhorn,92,sm10,1,0,0
+Rhyhorn,93,sm10,1,0,0
+Rhydon,,sm10,1,0,0
+Lairon,,sm10,1,0,0
+Meltan,,sm10,1,0,0
+Togekiss,,sm10,0,1,0
+Meowth,,sm10,2,0,0
+Dust Island,,sm10,1,0,0
+Fairy Charm Ability,,sm10,1,0,0
+Yanmega,,sm11,1,0,0
+Shroomish,,sm11,1,0,0
+Dwebble,,sm11,1,0,0
+Fomantis,,sm11,2,0,0
+Lurantis,,sm11,1,0,0
+Steenee,,sm11,2,0,0
+Fletchinder,,sm11,1,0,0
+Snover,,sm11,1,0,0
+Tynamo,64,sm11,1,0,0
+Cresselia,,sm11,1,0,0
+Munna,,sm11,1,0,0
+Doublade,,sm11,2,0,0
+Poipole,,sm11,1,0,0
+Heracross,,sm11,2,0,0
+Riolu,116,sm11,1,0,0
+Cottonee,,sm11,1,0,0
+Dedenne,,sm11,1,0,0
+Fraxure,,sm11,5,0,0
+Druddigon,,sm11,1,0,0
+Tauros,,sm11,3,0,0
+Audino,,sm11,1,0,0
+Tornadus,,sm11,1,0,0
+Caterpie,,sm115,1,0,0
+Paras,,sm115,1,0,0
+Psyduck,,sm115,2,0,0
+Slowpoke,,sm115,1,0,0
+Staryu,,sm115,1,0,0
+Magikarp,,sm115,1,0,0
+Pikachu,,sm115,2,0,0
+Ekans,25,sm115,2,0,0
+Ekans,26,sm115,4,0,0
+Koffing,,sm115,2,0,0
+Geodude,,sm115,1,0,0
+Jigglypuff,,sm115,2,0,0
+Farfetch'd,,sm115,3,0,0
+Eevee,49,sm115,2,0,0
+Brock's Grit,,sm115,2,0,0
+Misty's Cerulean City Gym,,sm115,1,0,0
+Tangrowth,,sm12,1,0,0
+Natu,,sm12,1,0,0
+Stufful,,sm12,1,0,0
+Eevee V,,swshp,0,1,0
+Flareon V,,swshp,0,1,0
+Vaporeon V,,swshp,0,1,0
+Jolteon V,,swshp,0,1,0
+Professor Burnet,,swshp,1,0,0
+Bulbasaur,,swshp,0,1,0
+Hisuian Electrode V,,swshp,0,1,0
+Dark Sylveon V,,swshp,0,2,0
+Leafeon V,,swshp,0,1,0
+Glaceon V,,swshp,0,1,0
+Lucario VSTAR,,swshp,0,1,0
+Lucario V,,swshp,0,1,0
+Rowlet,,swshp,0,1,0
+Cyndaquil,,swshp,0,1,0
+Oshawott,,swshp,0,1,0
+Espeon V,,swshp,0,1,0
+Umbreon V,,swshp,0,1,0
+Radiant Eevee,,swshp,0,1,0
+Zacian V (Shiny),,swshp,0,1,0
+Zamazenta V (Shiny),,swshp,0,1,0
+Morpeko V-Union (SWSH287-290) (Set of 4),,swshp,0,1,0
+Roselia,2,swsh1,1,0,0
+Cottonee,,swsh1,1,0,0
+Grookey,10,swsh1,1,0,0
+Grookey,11,swsh1,1,0,0
+Thwackey,12,swsh1,1,0,0
+Rillaboom,14,swsh1,0,2,0
+Blipbug,16,swsh1,2,0,0
+Eldegoss,,swsh1,1,0,0
+Salandit,,swsh1,3,0,0
+Salazzle,,swsh1,1,0,0
+Scorbunny,30,swsh1,1,0,0
+Scorbunny,31,swsh1,1,0,0
+Raboot,32,swsh1,1,0,0
+Cinderace,34,swsh1,0,2,0
+Sizzlipede,37,swsh1,2,0,0
+Krabby,42,swsh1,1,0,0
+Kingler,,swsh1,1,0,0
+Goldeen,46,swsh1,1,0,0
+Seaking,,swsh1,1,0,0
+Sobble,54,swsh1,1,0,0
+Sobble,55,swsh1,1,0,0
+Drizzile,56,swsh1,1,0,0
+Drizzile,57,swsh1,1,0,0
+Chewtle,,swsh1,1,0,0
+Pikachu,,swsh1,2,0,0
+Chinchou,67,swsh1,2,0,0
+Chinchou,68,swsh1,1,0,0
+Joltik,,swsh1,4,0,0
+Yamper,73,swsh1,1,0,0
+Yamper,74,swsh1,2,0,0
+Pincurchin,,swsh1,1,0,0
+Haunter,,swsh1,2,0,0
+Diglett,,swsh1,3,0,0
+Dugtrio,,swsh1,1,0,0
+Hitmonlee,,swsh1,2,0,0
+Sudowoodo,,swsh1,1,0,1
+Baltoy,102,swsh1,1,0,0
+Mudbray,,swsh1,1,0,0
+Silicobra,108,swsh1,2,0,0
+Clobbopus,111,swsh1,1,0,0
+Galarian Zigzagoon,,swsh1,1,0,0
+Galarian Linoone,,swsh1,2,0,0
+Nickit,,swsh1,1,0,0
+Galarian Meowth,,swsh1,1,0,0
+Ferroseed,,swsh1,3,0,0
+Ferrothorn,,swsh1,2,0,0
+Bisharp,,swsh1,1,0,0
+Cufant,,swsh1,1,0,0
+Hoothoot,,swsh1,1,0,0
+Minccino,145,swsh1,1,0,0
+Minccino,146,swsh1,3,0,0
+Rookidee,,swsh1,1,0,0
+Wooloo,153,swsh1,1,0,0
+Bede,,swsh1,1,0,0
+Big Charm,,swsh1,1,0,0
+Crushing Hammer,,swsh1,1,0,0
+Hop,,swsh1,1,0,0
+Hyper Potion,,swsh1,1,0,0
+Metal Saucer,,swsh1,2,0,0
+Poke Kid,,swsh1,1,0,0
+Quick Ball,,swsh1,1,0,0
+Rotom Bike,,swsh1,2,0,0
+Switch,,swsh1,2,0,0
+Team Yell Grunt,,swsh1,1,0,0
+Vitality Band,,swsh1,2,0,0
+Caterpie,,swsh2,1,0,0
+Scyther,,swsh2,1,0,0
+Phantump,,swsh2,1,0,0
+Flapple,,swsh2,0,1,0
+Vulpix,,swsh2,1,0,0
+Galarian Mr. Mime,,swsh2,1,0,0
+Magikarp,,swsh2,1,0,0
+Galarian Darumaka,,swsh2,1,0,0
+Shinx,,swsh2,1,0,0
+Luxray,,swsh2,0,1,0
+Charjabug,,swsh2,2,0,0
+Natu,,swsh2,1,0,0
+Galarian Corsola,,swsh2,1,0,0
+Palossand,,swsh2,2,0,0
+Hatenna,,swsh2,2,0,0
+Hattrem,,swsh2,1,0,0
+Dreepy,,swsh2,1,0,0
+Drakloak,,swsh2,2,0,0
+Galarian Farfetch'd,,swsh2,1,0,0
+Meditite,,swsh2,1,0,0
+Galarian Yamask,,swsh2,2,0,0
+Carkol,,swsh2,2,0,0
+Vullaby,,swsh2,1,0,0
+Bronzong,,swsh2,1,0,0
+Chatot,,swsh2,1,0,0
+Pidove,,swsh2,1,0,0
+Bewear,,swsh2,1,0,0
+Cursed Shovel,,swsh2,1,0,0
+Milo,,swsh2,1,0,0
+Oleana,,swsh2,1,0,0
+Horror P Energy,,swsh2,1,0,0
+Paras,,swsh3,1,0,0
+Pansage,,swsh3,1,0,0
+Simisage,,swsh3,2,0,0
+Rowlet,,swsh3,1,0,0
+Dartrix,,swsh3,1,0,0
+Wimpod,,swsh3,1,0,0
+Pansear,,swsh3,1,0,0
+Galarian Mr. Mime,,swsh3,2,0,0
+Billowing Smoke,,swsh3,1,0,0
+Bird Keeper,,swsh3,1,0,0
+Cape of Toughness,,swsh3,1,0,0
+Glimwood Tangle,,swsh3,1,0,0
+Kabu,,swsh3,1,0,0
+Pokemon Breeder's Nurturing,,swsh3,2,0,0
+Rare Fossil,,swsh3,2,0,0
+Spikemuth,,swsh3,1,0,0
+Struggle Gloves,,swsh3,1,0,0
+Relicanth,,swsh3,1,0,0
+Sentret,,swsh3,1,0,0
+Galarian Darumaka,,swsh3,1,0,0
+Vanillish,,swsh3,1,0,0
+Swanna,,swsh3,1,0,0
+Bunnelby,,swsh3,1,0,0
+Fletchling,,swsh3,1,0,0
+Skwovet,,swsh3,1,0,0
+Toxapex,,swsh3,1,0,0
+Lairon,,swsh3,1,0,0
+Klink,,swsh3,1,0,0
+Klang,,swsh3,1,0,0
+Cufant,,swsh3,1,0,0
+Spinarak,,swsh3,1,0,0
+Electrike,,swsh3,2,0,0
+Purrloin,,swsh3,1,0,0
+Toxel,,swsh3,1,0,0
+Deino,,swsh3,2,0,0
+Zweilous,,swsh3,1,0,0
+Jigglypuff,,swsh3,1,0,0
+Lunatone,,swsh3,1,0,0
+Gothorita,,swsh3,2,0,0
+Golett,,swsh3,1,0,0
+Dedenne,,swsh3,1,0,0
+Morelull,,swsh3,1,0,0
+Dugtrio,,swsh3,1,0,0
+Larvitar,,swsh3,1,0,0
+Passimian,,swsh3,1,0,0
+Beedrill,,swsh35,4,0,0
+Vulpix,,swsh35,2,0,0
+Victini,,swsh35,1,0,0
+Sizzlipede,,swsh35,1,0,0
+Sharpedo,,swsh35,1,0,0
+Hatenna,,swsh35,1,0,0
+Hatterene,,swsh35,0,0,1
+Machoke,,swsh35,1,0,0
+Machamp,,swsh35,0,1,0
+Galarian Zigzagoon,,swsh35,1,0,0
+Galarian Linoone,,swsh35,1,0,0
+Absol,,swsh35,1,0,0
+Purrloin,,swsh35,2,0,0
+Liepard,,swsh35,2,0,0
+Scraggy,,swsh35,1,0,0
+Trubbish,,swsh35,1,0,0
+Inkay,,swsh35,2,0,0
+Nickit,,swsh35,3,0,0
+Suspicious Food Tin,,swsh35,1,0,0
+Team Yell Grunt,,swsh35,2,0,0
+Turffield Stadium,,swsh35,1,0,0
+Exeggcute,,swsh4,2,0,0
+Exeggutor,,swsh4,1,0,0
+Yanma,,swsh4,1,0,0
+Seedot,,swsh4,4,0,0
+Nuzleaf,,swsh4,1,0,0
+Nincada,,swsh4,3,0,0
+Skiddo,,swsh4,3,0,0
+Gogoat,,swsh4,2,0,0
+Dhelmise,,swsh4,1,0,0
+Charmander,,swsh4,3,0,0
+Charmeleon,,swsh4,3,0,0
+Flareon,,swsh4,1,0,0
+Slugma,,swsh4,1,0,0
+Dewott,,swsh4,2,0,0
+Chewtle,,swsh4,2,0,0
+Cramorant,,swsh4,1,0,0
+Arrokuda,,swsh4,3,0,0
+Voltorb,,swsh4,3,0,0
+Zapdos,,swsh4,0,1,0
+Electrike,,swsh4,1,0,0
+Manectric,,swsh4,2,0,0
+Blitzle,,swsh4,1,0,0
+Tynamo,,swsh4,2,0,0
+Eelektrik,,swsh4,1,0,1
+Eelektross,,swsh4,1,0,0
+Pincurchin,,swsh4,3,0,1
+Clefairy,,swsh4,1,0,0
+Girafarig,,swsh4,3,0,0
+Shuppet,,swsh4,3,0,0
+Duskull,,swsh4,1,0,0
+Dusclops,,swsh4,1,0,0
+Woobat,,swsh4,2,0,0
+Whimsicott,,swsh4,1,0,0
+Milcery,,swsh4,3,0,0
+Wooper,,swsh4,2,0,0
+Allister,,swsh4,1,0,0
+Beauty,,swsh4,1,0,0
+Cara Liss,,swsh4,1,0,0
+Drone Rotom,,swsh4,0,0,1
+League Staff,,swsh4,1,0,0
+Memory Capsule,,swsh4,3,0,1
+Shuckle,,swsh4,2,0,0
+Phanpy,,swsh4,2,0,0
+Nessa,,swsh4,1,0,1
+Regirock,,swsh4,0,1,0
+Riolu,,swsh4,2,0,0
+Terrakion,,swsh4,0,0,2
+Rocky Helmet,,swsh4,1,0,0
+Rockruff,,swsh4,1,0,0
+Mudsdale,,swsh4,1,0,0
+Aromatic Grass Energy,,swsh4,1,0,0
+Clobbopus,,swsh4,2,0,0
+Grapploct,,swsh4,1,0,0
+Poochyena,,swsh4,2,0,1
+Mightyena,,swsh4,3,0,0
+Sableye,,swsh4,1,0,0
+Krokorok,,swsh4,2,0,0
+Krookodile,,swsh4,1,0,0
+Trubbish,,swsh4,3,0,0
+Galarian Meowth,,swsh4,1,0,0
+Forretress,,swsh4,1,0,0
+Beldum,,swsh4,1,0,0
+Metang,,swsh4,2,0,0
+Excadrill,,swsh4,1,0,0
+Ferrothorn,,swsh4,2,0,0
+Galarian Stunfisk,,swsh4,1,0,1
+Duraludon,,swsh4,0,1,0
+Eevee,,swsh4,4,0,0
+Swellow,,swsh4,1,0,0
+Whismur,,swsh4,4,0,1
+Chatot,,swsh4,2,0,0
+Trumbeak,,swsh4,1,0,0
+Toucannon,,swsh4,1,0,0
+Oranguru (Secret),,swsh4,0,1,0
+Yanma,,swsh45,1,0,0
+Cacnea,,swsh45,2,0,0
+Tropius,,swsh45,1,0,0
+Dartrix,,swsh45,3,0,0
+Eldegoss,,swsh45,2,0,0
+Horsea,,swsh45,2,0,0
+Buizel,,swsh45,1,0,0
+Floatzel,,swsh45,2,0,0
+Chewtle,,swsh45,3,0,0
+Cramorant,,swsh45,2,0,0
+Snom,,swsh45,3,0,0
+Shinx,,swsh45,3,0,0
+Luxio,,swsh45,2,0,0
+Morpeko,35,swsh45,1,0,0
+Trapinch,,swsh45,3,0,0
+Koffing,,swsh45,2,0,0
+Spinarak,,swsh45,1,0,0
+Cufant,,swsh45,1,0,0
+Eevee,,swsh45,1,0,0
+Ball Guy,,swsh45,1,0,0
+Team Yell Towel,,swsh45,3,0,0
+Rusted Shield,,swsh45,1,0,0
+Boss's Orders,,swsh45,1,0,0
+Cacnea,,swsh5,1,0,0
+Cherubi,,swsh5,1,0,0
+Scatterbug,,swsh5,1,0,0
+Fomantis,,swsh5,2,0,0
+Tapu Bulu,,swsh5,0,1,0
+Blipbug,,swsh5,1,0,0
+Entei,,swsh5,0,1,0
+Energy Recycler,,swsh5,0,0,1
+Korrina's Focus,,swsh5,1,0,0
+Tepig,,swsh5,1,0,0
+Heatmor,,swsh5,1,0,0
+Phoebe,,swsh5,2,0,0
+Rapid Strike Scroll of Swirls,,swsh5,1,0,0
+Spearow,,swsh5,1,0,0
+Fearow,,swsh5,3,0,0
+Lickitung,,swsh5,1,0,0
+Horsea,,swsh5,1,0,0
+Glameow,,swsh5,3,0,0
+Purugly,,swsh5,1,0,0
+Indeedee,,swsh5,1,0,0
+Corphish,,swsh5,1,0,0
+Frillish,,swsh5,3,0,0
+Bronzor,,swsh5,1,0,0
+Bruxish,,swsh5,1,0,0
+Honedge,,swsh5,2,0,0
+Zubat,,swsh5,1,0,0
+Yamper,,swsh5,0,0,1
+Boltund,,swsh5,0,0,1
+Galarian Slowpoke,,swsh5,1,0,0
+Spoink,,swsh5,1,0,0
+Murkrow,,swsh5,2,0,0
+Honchkrow,,swsh5,1,0,0
+Morpeko,,swsh5,1,0,0
+Claydol,,swsh5,2,0,0
+Espurr,,swsh5,4,0,0
+Primeape,,swsh5,1,0,0
+Onix,,swsh5,0,0,1
+Cubone,,swsh5,1,0,0
+Conkeldurr,,swsh5,0,0,1
+Mienfoo,,swsh5,1,0,0
+Rolycoly,,swsh5,3,0,0
+Carkol,,swsh5,1,0,0
+Weedle,,swsh6,1,0,0
+Kakuna,,swsh6,1,0,1
+Ledyba,,swsh6,1,0,0
+Ledian,,swsh6,3,0,0
+Heracross,,swsh6,3,0,0
+Abomasnow,,swsh6,1,0,0
+Deerling,,swsh6,2,0,0
+Sawsbuck,,swsh6,1,0,0
+Bounsweet,,swsh6,3,0,0
+Steenee,,swsh6,1,0,0
+Grookey,,swsh6,1,0,0
+Thwackey,,swsh6,2,0,0
+Castform Sunny Form,,swsh6,3,0,0
+Larvesta,,swsh6,1,0,0
+Volcarona,,swsh6,1,0,0
+Scorbunny,,swsh6,1,0,0
+Raboot,,swsh6,1,0,0
+Lapras,,swsh6,2,0,0
+Sneasel,,swsh6,2,0,0
+Castform Rainy Form,,swsh6,0,0,1
+Castform Snowy Form,,swsh6,1,0,0
+Snorunt,,swsh6,2,0,0
+Spheal,,swsh6,2,0,0
+Sealeo,,swsh6,1,0,0
+Sobble,,swsh6,1,0,0
+Inteleon,,swsh6,0,2,0
+Mareep,,swsh6,1,0,0
+Flaaffy,,swsh6,1,0,0
+Ampharos,,swsh6,2,0,0
+Blitzle,,swsh6,1,0,0
+Gastly,,swsh6,2,0,0
+Ralts,,swsh6,1,0,0
+Kirlia,,swsh6,3,0,0
+Shuppet,,swsh6,3,0,0
+Golett,,swsh6,2,0,0
+Golurk,,swsh6,1,0,0
+Swirlix,,swsh6,1,0,0
+Inkay,,swsh6,2,0,0
+Malamar,,swsh6,0,0,1
+Hatenna,,swsh6,2,0,0
+Hattrem,,swsh6,1,0,0
+Diglett,,swsh6,3,0,0
+Galarian Farfetch'd,,swsh6,1,0,0
+Galarian Sirfetch'd,,swsh6,2,0,0
+Gallade,,swsh6,1,0,0
+Galarian Yamask,,swsh6,2,0,0
+Crabrawler,,swsh6,2,0,0
+Rockruff,,swsh6,3,0,0
+Lycanroc,,swsh6,0,0,1
+Passimian,,swsh6,1,0,0
+Clobbopus,,swsh6,2,0,0
+Kubfu,,swsh6,2,0,0
+Koffing,,swsh6,1,0,0
+Weezing,,swsh6,1,0,0
+Qwilfish,,swsh6,1,0,0
+Venipede,,swsh6,2,0,0
+Whirlipede,,swsh6,2,0,0
+Aron,,swsh6,1,0,0
+Lairon,,swsh6,3,0,0
+Porygon,,swsh6,1,0,0
+Furfrou,,swsh6,1,0,0
+Skwovet,,swsh6,1,0,0
+Avery,,swsh6,1,0,0
+Doctor,,swsh6,1,0,0
+Dyna Tree Hill,,swsh6,2,0,0
+Echoing Horn,,swsh6,1,0,0
+Expedition Uniform,,swsh6,2,0,0
+Fire-Resistant Gloves,,swsh6,1,0,0
+Galarian Chestplate,,swsh6,1,0,0
+Honey,,swsh6,0,0,1
+Justified Gloves,,swsh6,1,0,0
+Karen's Conviction,,swsh6,1,0,0
+Klara,,swsh6,2,0,0
+Melony,,swsh6,2,0,0
+Peony,,swsh6,1,0,0
+Rapid Strike Scroll of the Skies,,swsh6,3,0,0
+Rugged Helmet,,swsh6,2,0,0
+Siebold,,swsh6,3,0,0
+Single Strike Scroll of Piercing,,swsh6,2,0,0
+Weeding Gloves,,swsh6,2,0,0
+Impact Energy,,swsh6,1,0,0
+Spiral Energy,,swsh6,2,0,0
+Sylveon V,,swsh7,0,1,0
+Rayquaza V,,swsh7,0,1,0
+Rayquaza VMAX,,swsh7,0,1,0
+Garbodor VMAX,,swsh7,0,1,0
+Glaceon V,,swsh7,0,1,0
+Duraludon V,,swsh7,0,1,0
+Duraludon VMAX,,swsh7,0,1,0
+Aroma Lady,,swsh7,2,0,0
+Boost Shake,,swsh7,2,0,0
+Copycat,,swsh7,2,0,1
+Crystal Cave,,swsh7,0,0,1
+Digging Gloves,,swsh7,1,0,0
+Dream Ball,,swsh7,2,0,0
+Elemental Badge,,swsh7,2,0,0
+Full Face Guard,,swsh7,1,0,0
+Gordie,,swsh7,1,0,0
+Lucky Ice Pop,,swsh7,1,0,0
+Moon & Sun Badge,,swsh7,4,0,1
+Raihan,,swsh7,1,0,0
+Rapid Strike Scroll of the Flying Dragon,,swsh7,4,0,0
+Rescue Carrier,,swsh7,2,0,2
+Ribbon Badge,,swsh7,4,0,0
+Rubber Gloves,,swsh7,1,0,0
+Snow Leaf Badge,,swsh7,2,0,0
+Spirit Mask,,swsh7,1,0,0
+Shopping Center,,swsh7,1,0,0
+Stormy Mountains,,swsh7,1,0,0
+Toy Catcher,,swsh7,1,0,0
+Zinnia's Resolve,,swsh7,5,0,0
+Toy Catcher (Secret),,swsh7,0,1,0
+Turffield Stadium (Secret),,swsh7,0,1,0
+Pinsir,,swsh7,1,0,0
+Hoppip,,swsh7,7,0,1
+Skiploom,,swsh7,3,0,2
+Psyduck,,swsh7,4,0,0
+Golduck,,swsh7,3,0,1
+Tentacool,,swsh7,4,0,0
+Seedot,,swsh7,2,0,0
+Tentacruel,,swsh7,2,0,0
+Petilil,,swsh7,4,0,0
+Lilligant,,swsh7,1,0,0
+Dwebble,,swsh7,7,0,0
+Crustle,,swsh7,2,0,1
+Gossifleur,,swsh7,2,0,0
+Lotad,,swsh7,7,0,0
+Lombre,,swsh7,1,0,0
+Applin,,swsh7,2,0,0
+Hypno,,swsh7,1,0,2
+Litleo,,swsh7,5,0,1
+Carvanha,,swsh7,3,0,0
+Wobbuffet,,swsh7,4,0,0
+Pyroar,,swsh7,2,0,0
+Sableye,,swsh7,2,0,0
+Woobat,,swsh7,3,0,0
+Sharpedo,,swsh7,1,0,1
+Swoobat,,swsh7,1,0,0
+Feebas,,swsh7,4,0,0
+Eevee,,swsh7,4,0,0
+Teddiursa,,swsh7,2,0,0
+Flabebe,,swsh7,1,0,0
+Ursaring,,swsh7,2,0,0
+Milotic,,swsh7,1,0,0
+Floette,,swsh7,1,0,0
+Smeargle,,swsh7,1,0,0
+Luvdisc,,swsh7,3,0,0
+Slakoth,,swsh7,3,0,0
+Pumpkaboo,,swsh7,1,0,0
+Tympole,,swsh7,4,0,0
+Vigoroth,,swsh7,1,0,0
+Cutiefly,,swsh7,6,0,0
+Swablu,,swsh7,4,0,0
+Ribombee,,swsh7,4,0,0
+Cryogonal,,swsh7,3,0,0
+Lillipup,,swsh7,5,0,0
+Bergmite,,swsh7,3,0,0
+Herdier,,swsh7,3,0,0
+Avalugg,,swsh7,4,0,0
+Hitmonchan,,swsh7,9,0,0
+Stoutland,,swsh7,1,0,0
+Wishiwashi,,swsh7,1,0,0
+Rufflet,,swsh7,5,0,0
+Eiscue,,swsh7,4,0,0
+Braviary,,swsh7,2,0,0
+Hippopotas,,swsh7,5,0,0
+Fletchling,,swsh7,3,0,0
+Hippowdon,,swsh7,3,0,0
+Pikachu,,swsh7,2,0,0
+Fletchinder,,swsh7,2,0,0
+Roggenrola,,swsh7,2,0,0
+Talonflame,,swsh7,2,0,0
+Gigalith,,swsh7,1,0,0
+Chinchou,,swsh7,1,0,0
+Palpitoad,,swsh7,3,0,0
+Nuzleaf,,swsh7,1,0,1
+Seismitoad,,swsh7,1,0,0
+Lanturn,,swsh7,2,0,0
+Shiftry,,swsh7,1,0,0
+Mareep,,swsh7,1,0,0
+Scraggy,,swsh7,1,0,0
+Flaaffy,,swsh7,2,0,1
+Ampharos,,swsh7,1,0,0
+Zorua,,swsh7,5,0,0
+Emolga,,swsh7,4,0,0
+Nickit,,swsh7,4,0,0
+Thievul,,swsh7,3,0,0
+Scrafty,,swsh7,3,0,0
+Bagon,,swsh7,2,0,0
+Shelgon,,swsh7,2,0,0
+Dialga,,swsh7,0,3,0
+Deino,,swsh7,2,0,0
+Zweilous,,swsh7,5,0,0
+Kyurem,,swsh7,0,1,0
+Drampa,,swsh7,2,0,0
+Flapple,,swsh7,2,0,0
+Appletun,,swsh7,2,0,0
+Dialga,,cel25,0,1,0
+Cosmoem,,cel25,0,2,0
+Kyogre,,cel25,0,1,0
+Ho-Oh,,cel25,0,1,0
+Reshiram,,cel25,0,1,0
+Palkia,,cel25,0,1,0
+Pikachu,,cel25,0,1,0
+Zekrom,,cel25,0,1,0
+Xerneas,,cel25,0,1,0
+Cosmog,,cel25,0,1,0
+Lunala,,cel25,0,1,0
+Yveltal,,cel25,0,1,0
+Solgaleo,,cel25,0,2,0
+Lugia,,cel25,0,1,0
+Caterpie,,swsh8,2,0,0
+Metapod,,swsh8,1,0,0
+Shroomish,,swsh8,2,0,0
+Breloom,,swsh8,1,0,0
+Pansage,,swsh8,2,0,0
+Simisage,,swsh8,1,0,0
+Leavanny,,swsh8,1,0,1
+Maractus,,swsh8,1,0,0
+Shelmet,,swsh8,3,0,0
+Adventurer's Discovery,,swsh8,2,0,0
+Virizion,,swsh8,1,0,0
+Bug Catcher,,swsh8,1,0,1
+Phantump,,swsh8,0,0,3
+Trevenant,,swsh8,3,0,0
+Chili & Cilan & Cress,,swsh8,1,0,0
+Grubbin,,swsh8,4,0,1
+Cook,,swsh8,4,0,0
+Cross Switcher,,swsh8,4,0,0
+Dewpider,,swsh8,2,0,0
+Crossceiver,,swsh8,0,0,1
+Dancer,,swsh8,1,0,0
+Elesa's Sparkle,,swsh8,1,0,0
+Farewell Bell,,swsh8,1,0,0
+Judge,,swsh8,1,0,1
+Schoolboy,,swsh8,1,0,0
+Gossifleur,,swsh8,2,0,0
+Schoolgirl,,swsh8,3,0,0
+Eldegoss,,swsh8,1,0,0
+Sidney,,swsh8,3,0,1
+Vulpix,29,swsh8,1,0,0
+Ninetales,30,swsh8,1,0,0
+Ninetales,31,swsh8,1,0,0
+Growlithe,,swsh8,1,0,0
+Arcanine,,swsh8,1,0,0
+Slugma,,swsh8,1,0,1
+Magcargo,,swsh8,2,0,0
+Heatmor,,swsh8,3,0,0
+Oricorio,,swsh8,1,0,0
+Sizzlipede,46,swsh8,1,0,0
+Sizzlipede,47,swsh8,1,0,2
+Shellder,,swsh8,1,0,0
+Starmie,,swsh8,0,1,0
+Totodile,,swsh8,2,0,0
+Marill,,swsh8,1,0,0
+Qwilfish,,swsh8,1,0,0
+Mantine,,swsh8,2,0,0
+Mudkip,,swsh8,1,0,0
+Marshtomp,,swsh8,0,0,1
+Basculin,,swsh8,1,0,0
+Galarian Darumaka,,swsh8,2,0,0
+Galarian Darmanitan,,swsh8,1,0,1
+Clauncher,,swsh8,0,0,1
+Pyukumuku,,swsh8,1,0,1
+Chewtle,,swsh8,2,0,0
+Arrokuda,,swsh8,0,0,1
+Snom,,swsh8,3,0,0
+Voltorb,,swsh8,1,0,1
+Electrode,,swsh8,0,0,1
+Plusle,,swsh8,3,0,0
+Shinx,,swsh8,2,0,0
+Luxio,,swsh8,1,0,1
+Rotom,,swsh8,3,0,0
+Tynamo,,swsh8,2,0,0
+Eelektrik,,swsh8,1,0,0
+Zeraora,,swsh8,1,0,0
+Toxel,106,swsh8,2,0,0
+Morpeko,109,swsh8,2,0,0
+Jigglypuff,,swsh8,1,0,0
+Wigglytuff,,swsh8,1,0,0
+Mew V,,swsh8,0,1,0
+Snubbull,,swsh8,1,0,0
+Galarian Corsola,,swsh8,1,0,1
+Venusaur,,base1,0,1,0
+Arcanine,,base1,1,0,0
+Charmeleon,,base1,1,0,0
+Dratini,,base1,1,0,0
+Farfetch'd,,base1,1,0,0
+Growlithe,,base1,1,0,0
+Kakuna,,base1,2,0,0
+Machoke,,base1,4,0,0
+Magikarp,,base1,1,0,0
+Poliwhirl,,base1,2,0,0
+Seel,,base1,1,0,0
+Abra,,base1,1,0,0
+Bulbasaur,,base1,1,0,0
+Charmander,,base1,9,0,0
+Diglett,,base1,2,0,0
+Drowzee,,base1,1,0,0
+Gastly,,base1,2,0,0
+Machop,,base1,5,0,0
+Magnemite,,base1,2,0,0
+Nidoran M,,base1,1,0,0
+Poliwag,,base1,3,0,0
+Ponyta,,base1,1,0,0
+Rattata,,base1,3,0,0
+Staryu,,base1,2,0,0
+Weedle,,base1,1,0,0
+Energy Retrieval,,base1,1,0,0
+Bill,,base1,1,0,0
+Energy Removal,,base1,1,0,0
+Gust of Wind,,base1,1,0,0
+Potion,,base1,2,0,0
+Pokedex,,base1,1,0,0
+Bill,,base4,3,0,0
+Energy Removal,,base4,1,0,0
+Dodrio,,base4,1,0,0
+Farfetch'd,,base4,1,0,0
+Abra,,base4,1,0,0
+Doduo,,base4,2,0,0
+Gastly,,base4,1,0,0
+Jynx,,base4,1,0,0
+Poliwhirl,,base4,1,0,0
+Seaking,,base4,2,0,0
+Seel,,base4,1,0,0
+Goldeen,,base4,5,0,0
+Magnemite,,base4,1,0,0
+Poliwag,,base4,2,0,0
+Rhyhorn,,base4,1,0,0
+Starmie,,base4,2,0,0
+Staryu,,base4,5,0,0
+Tangela,,base4,3,0,0
+Potion,,base4,2,0,0
+Golem,,base3,1,0,0
+Ekans,,base3,3,0,0
+Geodude,,base3,2,0,0
+Horsea,,base3,3,0,0
+Kabuto,,base3,1,0,0
+Omanyte,,base3,1,0,0
+Slowpoke,,base3,2,0,0
+Zubat,,base3,1,0,0
+Recycle,,base3,1,0,0
+Mysterious Fossil,,base3,1,0,0
+Aerodactyl,16,base3,1,0,0
+Lapras,25,base3,1,0,0
+Mr. Mime,6,base2,0,1,0
+Dodrio,,base2,1,0,0
+Rapidash,,base2,1,0,0
+Bellsprout,,base2,1,0,0
+Cubone,,base2,4,0,0
+Goldeen,,base2,2,0,0
+Jigglypuff,,base2,1,0,0
+Meowth,,base2,2,0,0
+Nidoran F,,base2,1,0,0
+Oddish,,base2,1,0,0
+Rhyhorn,,base2,5,0,0
+Venonat,,base2,2,0,0
+Galarian Cursola,,swsh8,1,0,1
+Meowth,,swsh8,5,0,0
+Persian,,swsh8,1,0,0
+Munna,,swsh8,3,0,0
+Blissey,,swsh8,2,0,0
+Eevee,,swsh8,1,0,0
+Snorlax,,swsh8,1,0,0
+Sigilyph,,swsh8,1,0,0
+Smeargle,,swsh8,3,0,0
+Skitty,,swsh8,1,0,0
+Buneary,,swsh8,2,0,0
+Lopunny,,swsh8,2,0,0
+Sandygast,,swsh8,1,0,0
+Diggersby,,swsh8,1,0,0
+Hawlucha,,swsh8,1,0,0
+Rookidee,,swsh8,1,0,0
+Wooloo,221,swsh8,2,0,0
+Wooloo,222,swsh8,2,0,1
+Galarian Meowth,,swsh8,1,0,0
+Dragapult,,swsh8,0,1,0
+Skarmory,,swsh8,1,0,0
+Sandshrew,,swsh8,1,0,0
+Excadrill,,swsh8,2,0,0
+Durant,,swsh8,1,0,0
+Mankey,,swsh8,1,0,0
+Klefki,,swsh8,3,0,1
+Primeape,,swsh8,0,0,1
+Graveler,,swsh8,1,0,0
+Onix,,swsh8,2,0,1
+Corviknight,,swsh8,0,0,1
+Cufant,,swsh8,1,0,0
+Gligar,,swsh8,1,0,0
+Latias,,swsh8,0,0,1
+Gliscor,,swsh8,1,0,0
+Makuhita,,swsh8,1,0,0
+Sliggoo,,swsh8,1,0,0
+Baltoy,,swsh8,1,0,0
+Goodra,,swsh8,1,0,1
+Turtonator,,swsh8,0,0,1
+Landorus,,swsh8,0,1,0
+Pancham,,swsh8,2,0,0
+Stufful,,swsh8,2,0,0
+Clobbopus,,swsh8,2,0,0
+Grapploct,,swsh8,1,0,0
+Falinks,154,swsh8,3,0,0
+Falinks,155,swsh8,4,0,1
+Carvanha,,swsh8,2,0,0
+Toxicroak,,swsh8,0,0,1
+Garbodor,,swsh8,3,0,0
+Vullaby,,swsh8,1,0,0
+Mandibuzz,,swsh8,2,0,0
+Impidimp,,swsh8,1,0,0
+Morgrem,,swsh8,3,0,0
+Morpeko,179,swsh8,2,0,0
+Cheren's Care,,swsh9,3,0,1
+Double Turbo Energy,,swsh9,2,0,0
+Kindler,,swsh9,2,0,0
+Magma Basin,,swsh9,4,0,0
+Exeggcute,,swsh9,4,0,0
+Exeggutor,,swsh9,2,0,0
+Shroomish,,swsh9,9,0,0
+Breloom,,swsh9,1,0,0
+Tropius,,swsh9,3,0,1
+Turtwig,,swsh9,5,0,0
+Grotle,,swsh9,4,0,0
+Burmy,,swsh9,3,0,0
+Torterra,,swsh9,0,1,0
+Wormadam,10,swsh9,0,0,1
+Mothim,,swsh9,0,0,1
+Cherubi,,swsh9,3,0,0
+Karrablast,,swsh9,2,0,1
+Magmar,,swsh9,2,0,1
+Moltres,,swsh9,0,1,0
+Torkoal,,swsh9,1,0,0
+Chimchar,,swsh9,3,0,0
+Monferno,,swsh9,1,0,1
+Infernape,,swsh9,0,1,0
+Staryu,,swsh9,2,0,0
+Lapras,,swsh9,1,0,0
+Corphish,,swsh9,4,0,0
+Crawdaunt,,swsh9,3,0,0
+Snorunt,,swsh9,2,0,0
+Piplup,,swsh9,10,0,0
+Prinplup,,swsh9,3,0,0
+Empoleon,,swsh9,0,1,0
+Buizel,,swsh9,3,0,0
+Floatzel,,swsh9,3,0,0
+Cubchoo,,swsh9,3,0,0
+Beartic,,swsh9,4,0,0
+Electabuzz,,swsh9,2,0,1
+Electivire,,swsh9,2,0,0
+Raikou V,,swsh9,0,1,0
+Shinx,,swsh9,4,0,0
+Luxio,,swsh9,4,0,0
+Pachirisu,,swsh9,1,0,0
+Clefairy,,swsh9,5,0,0
+Clefable,,swsh9,2,0,0
+Starmie,,swsh9,4,0,0
+Mewtwo,,swsh9,1,0,0
+Baltoy,,swsh9,3,0,1
+Claydol,,swsh9,4,0,0
+Duskull,,swsh9,7,0,0
+Dusclops,,swsh9,3,0,1
+Chimecho,,swsh9,5,0,0
+Sigilyph,,swsh9,2,0,0
+Dedenne,,swsh9,5,0,0
+Milcery,,swsh9,2,0,0
+Hitmontop,,swsh9,3,0,0
+Nosepass,,swsh9,2,0,2
+Trapinch,,swsh9,5,0,0
+Vibrava,,swsh9,3,0,0
+Flygon,,swsh9,1,0,0
+Riolu,,swsh9,3,0,0
+Throh,,swsh9,4,0,0
+Sawk,,swsh9,4,0,1
+Golett,,swsh9,2,0,0
+Grimer,,swsh9,6,0,0
+Sneasel,,swsh9,3,0,0
+Weavile,,swsh9,3,0,1
+Honchkrow V,,swsh9,0,1,0
+Spiritomb,,swsh9,1,0,0
+Purrloin,,swsh9,2,0,0
+Impidimp,,swsh9,0,0,1
+Morgrem,,swsh9,3,0,0
+Grimmsnarl,,swsh9,1,0,0
+Wormadam,98,swsh9,1,0,0
+Probopass,,swsh9,1,0,0
+Heatran,,swsh9,1,0,1
+Klink,,swsh9,3,0,0
+Klang,,swsh9,1,0,0
+Klinklang,,swsh9,1,0,0
+Gible,,swsh9,5,0,0
+Gabite,,swsh9,2,0,1
+Axew,,swsh9,1,0,0
+Fraxure,,swsh9,1,0,0
+Dracovish V,,swsh9,0,1,0
+Farfetch'd,,swsh9,5,0,0
+Castform,,swsh9,4,0,0
+Starly,,swsh9,2,0,0
+Bidoof,,swsh9,3,0,0
+Minccino,,swsh9,3,0,0
+Cinccino,,swsh9,0,0,1
+Tornadus,,swsh9,2,0,0
+Hawlucha,,swsh9,3,0,0
+Acerola's Premonition,,swsh9,3,0,0
+Barry,,swsh9,3,0,0
+Blunder Policy,,swsh9,0,0,1
+Cafe Master,,swsh9,1,0,1
+Choice Belt,,swsh9,1,0,0
+Cleansing Gloves,,swsh9,1,0,0
+Collapsed Stadium,,swsh9,4,0,0
+Cynthia's Ambition,,swsh9,3,0,0
+Friends in Galar,,swsh9,2,0,0
+Gloria,,swsh9,2,0,2
+Hunting Gloves,,swsh9,2,0,0
+Marnie's Pride,,swsh9,0,0,1
+Pot Helmet,,swsh9,1,0,0
+Ultra Ball,,swsh9,2,0,0
+Arceus V (Full Art),,swsh9,0,1,0
+Barry (Full Art),,swsh9,0,1,0
+Hisuian Electrode,,swsh10,1,0,0
+Heracross,,swsh10,1,0,0
+Kricketune,,swsh10,2,0,0
+Combee,,swsh10,1,0,0
+Shaymin,,swsh10,2,0,0
+Petilil,,swsh10,1,0,0
+Dartrix,,swsh10,3,0,0
+Rapidash,,swsh10,1,0,0
+Cyndaquil,,swsh10,2,0,0
+Quilava,,swsh10,0,0,1
+Psyduck,,swsh10,2,0,0
+Swinub,,swsh10,1,0,1
+Barboach,,swsh10,1,0,0
+Whiscash,,swsh10,2,0,1
+Oshawott,,swsh10,1,0,0
+Hisuian Basculegion,,swsh10,1,0,0
+Bergmite,,swsh10,2,0,0
+Hisuian Avalugg,,swsh10,1,0,0
+Ralts,,swsh10,1,0,0
+Kirlia,,swsh10,1,0,0
+Drifloon,,swsh10,3,0,0
+Drifblim,,swsh10,2,0,1
+Hisuian Growlithe,,swsh10,2,0,0
+Sudowoodo,,swsh10,3,0,0
+Cranidos,,swsh10,1,0,0
+Hippopotas,,swsh10,3,0,0
+Hisuian Decidueye V,,swsh10,0,1,0
+Kleavor,85,swsh10,1,0,0
+Kleavor,86,swsh10,0,1,0
+Hisuian Qwilfish,89,swsh10,2,0,0
+Hisuian Sneasel,,swsh10,1,0,0
+Poochyena,,swsh10,1,0,1
+Nickit,,swsh10,2,0,0
+Magnemite,,swsh10,2,0,0
+Magneton,,swsh10,0,0,1
+Pawniard,,swsh10,3,0,0
+Bisharp,,swsh10,1,0,0
+Eevee,,swsh10,1,0,0
+Hoothoot,,swsh10,1,0,0
+Teddiursa,,swsh10,1,0,0
+Ursaring,,swsh10,1,0,0
+Chatot,,swsh10,2,0,0
+Choy,,swsh10,1,0,0
+Energy Loto,,swsh10,0,0,1
+Feather Ball,,swsh10,1,0,0
+Gardenia's Vigor,,swsh10,1,0,0
+Grant,,swsh10,1,0,0
+Jubilife Village,,swsh10,1,0,0
+Kamado,,swsh10,0,0,1
+Sweet Honey,,swsh10,1,0,0
+Switch Cart,,swsh10,1,0,0
+Temple of Sinnoh,,swsh10,1,0,0
+Trekking Shoes,,swsh10,2,0,0
+Registeel,,swsh10,1,0,0
+Bulbasaur,,pgo,2,0,0
+Ivysaur,,pgo,3,0,0
+Charmander,,pgo,2,0,0
+Charmeleon,,pgo,2,0,0
+Charizard,,pgo,0,0,2
+Squirtle,,pgo,3,0,0
+Wimpod,,pgo,2,0,0
+Golisopod,,pgo,0,1,0
+Radiant Blastoise,,pgo,0,1,0
+Spinarak,,pgo,3,0,1
+Ariados,,pgo,4,0,0
+Pikachu,27,pgo,3,0,0
+Numel,,pgo,2,0,1
+Camerupt,,pgo,4,0,0
+Slowpoke,,pgo,3,0,0
+Magikarp,,pgo,2,0,1
+Moltres,,pgo,0,2,0
+Articuno,,pgo,0,1,1
+Mewtwo V,,pgo,0,1,0
+Chansey,,pgo,3,0,0
+Natu,,pgo,4,0,0
+Blissey,,pgo,0,0,1
+Xatu,,pgo,1,0,0
+Eevee,,pgo,2,0,0
+Snorlax,,pgo,0,1,1
+Aipom,,pgo,2,0,0
+Sylveon,,pgo,0,2,0
+Ambipom,,pgo,4,0,0
+Slaking V,,pgo,0,1,0
+Onix,,pgo,4,0,0
+Bidoof,,pgo,3,0,0
+Bibarel,,pgo,3,0,0
+Larvitar,,pgo,5,0,0
+Pidove,,pgo,2,0,0
+Tranquill,,pgo,3,0,0
+Unfezant,,pgo,4,0,0
+Blanche,,pgo,3,0,1
+Candela,,pgo,1,0,0
+Solrock,,pgo,2,0,1
+Egg Incubator,,pgo,4,0,0
+Lure Module,,pgo,1,0,0
+PokeStop,,pgo,2,0,1
+Rare Candy,,pgo,1,0,0
+Spark,,pgo,2,0,0
+Alolan Rattata,,pgo,4,0,0
+Alolan Raticate,,pgo,3,0,1
+Melmetal V (Full Art),,pgo,0,1,0
+Tyranitar,,pgo,0,1,0
+Steelix,,pgo,2,0,0
+Melmetal V,,pgo,0,1,0
+Melmetal VMAX,,pgo,0,1,0
+Meltan,,pgo,4,0,0
+Mirage Gate,,swsh11,2,0,0
+Oddish,,swsh11,2,0,0
+Paras,,swsh11,1,0,0
+Silcoon,,swsh11,1,0,0
+Cascoon,,swsh11,1,0,0
+Seedot,,swsh11,2,0,0
+Nuzleaf,,swsh11,1,0,0
+Roselia,,swsh11,1,0,0
+Phantump,,swsh11,1,0,0
+Slugma,,swsh11,2,0,0
+Torkoal,,swsh11,2,0,0
+Litwick,,swsh11,1,0,0
+Litleo,,swsh11,1,0,0
+Poliwag,,swsh11,2,0,0
+Poliwhirl,,swsh11,2,0,0
+Seel,,swsh11,1,0,0
+Luvdisc,,swsh11,2,0,0
+Finneon,,swsh11,1,0,0
+Lumineon,,swsh11,2,0,0
+Snover,,swsh11,2,0,0
+Hisuian Basculin,,swsh11,1,0,0
+Cramorant,,swsh11,0,0,1
+Glastrier,,swsh11,0,0,1
+Pikachu,,swsh11,1,0,0
+Electrike,,swsh11,2,0,0
+Tynamo,,swsh11,1,0,0
+Clefairy,,swsh11,1,0,0
+Clefable,,swsh11,1,0,0
+Gastly,,swsh11,1,0,1
+Haunter,,swsh11,2,0,0
+Jynx,,swsh11,1,0,0
+Mawile,,swsh11,1,0,0
+Hisuian Zorua,,swsh11,1,0,0
+Inkay,77,swsh11,1,0,0
+Malamar,,swsh11,1,0,0
+Hisuian Growlithe,,swsh11,2,0,0
+Machoke,,swsh11,1,0,0
+Rhyhorn,,swsh11,0,0,1
+Sudowoodo,,swsh11,1,0,0
+Gliscor,,swsh11,0,0,1
+Hariyama,,swsh11,3,0,1
+Medicham,,swsh11,2,0,0
+Gastrodon,,swsh11,2,0,0
+Mienfoo,,swsh11,1,0,0
+Mienshao,,swsh11,1,0,0
+Landorus,,swsh11,1,0,0
+Binacle,,swsh11,2,0,0
+Barbaracle,,swsh11,0,1,1
+Rockruff,,swsh11,1,0,0
+Falinks,,swsh11,2,0,0
+Stonjourner,,swsh11,1,0,0
+Spinarak,,swsh11,2,0,0
+Murkrow,,swsh11,1,0,0
+Inkay,121,swsh11,1,0,0
+Hoopa,,swsh11,2,0,0
+Radiant Hisuian Sneasler,,swsh11,0,1,0
+Bronzor,,swsh11,3,0,0
+Magearna,,swsh11,1,0,0
+Galarian Perrserker V,,swsh11,0,1,0
+Giratina V,,swsh11,0,1,0
+Goomy,,swsh11,3,0,0
+Lickitung,,swsh11,1,0,0
+Porygon2,,swsh11,1,0,0
+Ambipom,,swsh11,1,0,0
+Arc Phone,,swsh11,3,0,0
+Colress's Experiment,,swsh11,0,0,1
+Fantina,,swsh11,1,0,0
+Tool Box,,swsh11,1,0,0
+Gift Energy,,swsh11,1,0,0
+Rowlet,2,mcd22,0,1,0
+Flaaffy,9,mcd22,2,0,0
+Chinchou,8,mcd22,2,0,0
+Smeargle,15,mcd22,0,1,0
+Bewear,12,mcd22,1,0,0
+Pangoro,13,mcd22,1,0,0
+Candice,,swsh12,0,0,1
+Venonat,,swsh12,1,0,0
+Venomoth,,swsh12,1,0,0
+Sunflora,,swsh12,1,0,0
+Foongus,,swsh12,1,0,0
+Durant,,swsh12,0,0,1
+Vulpix,,swsh12,2,0,0
+Growlithe,,swsh12,1,0,0
+Ponyta,,swsh12,2,0,0
+Victini,,swsh12,1,0,0
+Braixen,,swsh12,0,0,1
+Talonflame,,swsh12,1,0,0
+Torracat,,swsh12,1,0,0
+Articuno,,swsh12,0,2,0
+Wailmer,,swsh12,1,0,0
+Feebas,,swsh12,1,0,0
+Milotic,,swsh12,1,0,0
+Snorunt,,swsh12,2,0,1
+Relicanth,,swsh12,2,0,0
+Phione,,swsh12,1,0,0
+Dewpider,,swsh12,2,0,0
+Pikachu,,swsh12,1,0,0
+Chinchou,,swsh12,1,0,0
+Rotom,,swsh12,2,0,0
+Stunfisk,,swsh12,1,0,0
+Drowzee,,swsh12,1,0,0
+Jynx,,swsh12,1,0,0
+Mismagius,,swsh12,1,0,0
+Ralts,,swsh12,1,0,0
+Kirlia,,swsh12,2,0,0
+Meditite,,swsh12,1,0,0
+Elgyem,,swsh12,1,0,0
+Meowstic,,swsh12,2,0,0
+Slurpuff,,swsh12,1,0,0
+Dedenne,,swsh12,1,0,0
+Dreepy,,swsh12,2,0,0
+Drakloak,,swsh12,1,0,0
+Dragapult,,swsh12,0,1,0
+Phanpy,,swsh12,1,0,0
+Baltoy,,swsh12,0,0,1
+Hawlucha,,swsh12,1,0,0
+Sandygast,,swsh12,1,0,0
+Zubat,,swsh12,1,0,0
+Murkrow,,swsh12,1,0,0
+Toxicroak,,swsh12,1,0,0
+Sandile,,swsh12,1,0,0
+Toxapex,,swsh12,3,0,0
+Metang,,swsh12,1,0,1
+Ferroseed,,swsh12,1,0,0
+Klink,,swsh12,1,0,0
+Dratini,,swsh12,2,0,0
+Dragonair,,swsh12,1,0,0
+Noibat,,swsh12,1,0,0
+Noivern,,swsh12,1,0,0
+Zygarde,,swsh12,0,0,1
+Spinda,,swsh12,2,0,0
+Swablu,,swsh12,1,0,0
+Buneary,,swsh12,2,0,0
+Rufflet,,swsh12,1,0,0
+Fletchling,,swsh12,2,0,0
+Earthen Seal Stone,,swsh12,0,1,0
+Gym Trainer,,swsh12,2,0,0
+Lance,,swsh12,1,0,0
+Leafy Camo Poncho,,swsh12,1,0,0
+Primordial Altar,,swsh12,1,0,0
+Professor Laventon,,swsh12,2,0,0
+Quad Stone,,swsh12,1,0,0
+Unidentified Fossil,,swsh12,1,0,0
+Regenerative Energy,,swsh12,1,0,0
+Parasect,,swsh11tg,0,1,0
+Braixen,,swsh12tg,0,1,0
+Malamar,,swsh12tg,0,1,0
+Entei,,swsh12pt5,0,2,0
+Larvesta,,swsh12pt5,4,0,0
+Tauros,,swsh12pt5,1,0,0
+Friends in Sinnoh (Full Art),,swsh12pt5,0,2,0
+Salandit,,swsh12pt5,4,0,0
+Salazzle,,swsh12pt5,3,0,0
+Seel,,swsh12pt5,0,0,1
+Galarian Mr. Mime,,swsh12pt5,2,0,0
+Wailmer,,swsh12pt5,2,0,1
+Corphish,,swsh12pt5,2,0,0
+Snorunt,,swsh12pt5,4,0,0
+Luvdisc,,swsh12pt5,1,0,1
+Kyogre,,swsh12pt5,0,1,0
+Snorlax,,swsh12pt5,1,0,0
+Starly,,swsh12pt5,3,0,0
+Bidoof,,swsh12pt5,3,0,0
+Chatot,,swsh12pt5,1,0,0
+Shinx,39,swsh12pt5,2,0,0
+Shinx,40,swsh12pt5,3,0,0
+Luxio,41,swsh12pt5,1,0,2
+Luxio,42,swsh12pt5,1,0,0
+Luxray,43,swsh12pt5,1,0,0
+Shaymin,,swsh12pt5,1,0,0
+Yungoos,,swsh12pt5,3,0,1
+Gumshoos,,swsh12pt5,1,0,0
+Oranguru,,swsh12pt5,2,0,0
+Emolga,,swsh12pt5,1,0,0
+Eelektrik,,swsh12pt5,2,0,0
+Helioptile,,swsh12pt5,5,0,0
+Wooloo,,swsh12pt5,4,0,0
+Heliolisk,,swsh12pt5,1,0,0
+Dubwool,,swsh12pt5,1,0,0
+Zeraora,,swsh12pt5,1,0,0
+Bede,,swsh12pt5,0,1,0
+Crushing Hammer,,swsh12pt5,2,0,0
+Digging Duo,,swsh12pt5,2,0,0
+Pincurchin,,swsh12pt5,3,0,0
+Exeggcute,,swsh12pt5,2,0,0
+Energy Retrieval,,swsh12pt5,3,0,0
+Energy Search,,swsh12pt5,2,0,1
+Girafarig,,swsh12pt5,2,0,0
+Energy Switch,,swsh12pt5,3,0,1
+Lunatone,,swsh12pt5,3,0,0
+Dusclops,,swsh12pt5,2,0,0
+Friends in Hisui,,swsh12pt5,2,0,0
+Friends in Sinnoh,,swsh12pt5,2,0,0
+Lost Vacuum,,swsh12pt5,4,0,0
+Poke Ball,,swsh12pt5,2,0,1
+Pokemon Catcher,,swsh12pt5,2,0,0
+Graveler,,swsh12pt5,1,0,0
+Potion,,swsh12pt5,1,0,0
+Solrock,,swsh12pt5,2,0,0
+Raihan,,swsh12pt5,0,0,1
+Baltoy,,swsh12pt5,4,0,0
+Rare Candy,,swsh12pt5,5,0,0
+Riolu,,swsh12pt5,4,0,0
+Rescue Carrier,,swsh12pt5,3,0,0
+Pancham,,swsh12pt5,4,0,0
+Rockruff,,swsh12pt5,4,0,0
+Trekking Shoes,,swsh12pt5,3,0,1
+Ultra Ball,,swsh12pt5,3,0,0
+Lycanroc,,swsh12pt5,1,0,1
+Koffing,,swsh12pt5,3,0,0
+Absol,,swsh12pt5,0,0,1
+Duraludon V,,swsh12pt5,0,1,0
+Purrloin,,swsh12pt5,4,0,0
+Radiant Eternatus,,swsh12pt5,0,1,0
+Krokorok,,swsh12pt5,1,0,0
+Skrelp,,swsh12pt5,4,0,0
+Galarian Perrserker,,swsh12pt5,0,0,1
+Aron,,swsh12pt5,2,0,0
+Lairon,,swsh12pt5,4,0,0
+Pawniard,91,swsh12pt5,1,0,0
+Pawniard,92,swsh12pt5,2,0,0
+Bisharp,,swsh12pt5,3,0,0
+Zamazenta,,swsh12pt5,0,1,0
+Galarian Meowth,,swsh12pt5,3,0,0
+Ambipom G,,pl2,1,0,0
+Bebe's Search,,pl2,1,0,0
+Bertha's Warmth,,pl2,1,0,0
+Bronzong E4,,pl2,1,0,0
+Darkrai G,,pl2,0,1,0
+Eevee,,pl2,1,0,0
+Electrode G,,pl2,1,0,0
+Flareon E4,,pl2,0,0,1
+Gallade E4,,pl2,0,0,1
+Koffing,,pl2,1,0,0
+Lairon,,pl2,0,0,1
+Leafeon,,pl2,1,0,0
+Munchlax,69,pl2,1,0,0
+Nidorino,,pl2,2,0,0
+Rapidash E4,,pl2,1,0,0
+Sealeo,,pl2,1,0,0
+Seedot,,pl2,1,0,0
+Shellos East Sea,,pl2,1,0,0
+Shellos West Sea,,pl2,1,0,0
+SP Energy,,pl2,1,0,0
+Spheal,,pl2,1,0,0
+Staryu,,pl2,1,0,0
+Trapinch,,pl2,1,0,0
+Upper Energy,,pl2,1,0,0
+Vigoroth,,dp2,1,0,0
+Tropius,,dp2,1,0,0
+Teddiursa,,dp2,2,0,0
+Time-Space Distortion,,dp2,0,1,0
+Totodile,,dp2,2,0,0
+Toxicroak,,dp2,1,0,0
+Vulpix,,dp2,1,0,0
+Zubat,,dp2,1,0,0
+Shieldon,,dp2,1,0,0
+Shinx,,dp2,1,0,0
+Slakoth,,dp2,1,0,0
+Sandshrew,,dp2,1,0,0
+Remoraid,,dp2,1,0,0
+Nidoqueen,,dp2,1,0,0
+Octillery,,dp2,1,0,0
+Paras,,dp2,1,0,0
+Parasect,,dp2,1,0,0
+Pikachu,,dp2,1,0,0
+Murkrow,,dp2,1,0,0
+Mr. Mime,,dp2,1,0,0
+Masquerain,,dp2,1,0,0
+Magby,,dp2,1,0,0
+Magikarp,,dp2,1,0,0
+Fossil Excavator,,dp2,1,0,0
+Geodude,,dp2,1,0,0
+Gible,,dp2,2,0,0
+Finneon,,dp2,1,0,0
+Dunsparce,,dp2,1,0,0
+Croagunk,,dp2,2,0,0
+Crobat,,dp2,1,0,0
+Dodrio,,dp2,1,0,0
+Chansey,,dp2,1,0,0
+Chikorita,,dp2,2,0,0
+Chingling,,dp2,1,0,0
+Buizel,,dp2,1,0,1
+Bayleef,,dp2,1,0,0
+Aron,,dp2,1,0,0
+Armor Fossil,,dp2,1,0,0
+Cherubi,,dp7,1,0,0
+Dusknoir,1,dp7,0,1,0
+Duskull,59,dp7,1,0,0
+Magikarp,,dp7,1,0,0
+Magneton,42,dp7,1,0,0
+Miltank,,dp7,0,0,1
+Premier Ball,,dp7,1,0,0
+Wartortle,,bw10,1,0,0
+Throh,,bw10,1,0,0
+Teddiursa,,bw10,1,0,0
+Volcarona (Team Plasma),,bw10,0,0,1
+Machop,,bw10,1,0,0
+Porygon,,bw10,1,0,0
+Bellossom,,swsh12pt5,2,0,0
+Tangela,,swsh12pt5,3,0,0
+Tangrowth,,swsh12pt5,1,0,0
+Scyther,,swsh12pt5,3,0,0
+Sunkern,,swsh12pt5,1,0,0
+Yanma,,swsh12pt5,1,0,0
+Kricketot,,swsh12pt5,1,0,0
+Cherubi,,swsh12pt5,4,0,0
+Carnivine,,swsh12pt5,5,0,0
+Hatterene VMAX,,swsh12pt5,0,1,0
+Oddish,,swsh12pt5,1,0,0
+Gloom,,swsh12pt5,2,0,0
+Grubbin,,swsh12pt5,2,0,0
+Cheren's Care,,swsh12pt5gg,0,1,0
+Deoxys VSTAR,,swsh12pt5gg,0,1,0
+Leafeon VSTAR,,swsh12pt5gg,0,1,0
+Bidoof,,swsh12pt5gg,0,1,0
+Lumineon V,,swsh12pt5gg,0,1,0
+Altaria,,swsh12pt5gg,0,1,0
+Bibarel,,swsh12pt5gg,0,1,0
+Fuecoco,,svp,0,1,0
+Quaxly,,svp,0,1,0
+Sprigatito,,svp,0,1,0
+Spidops,,svp,0,1,0
+Growlithe,,svp,0,1,0
+Annihilape,,sv1,0,1,0
+Tropius,,sv1,1,0,0
+Smoliv,20,sv1,1,0,0
+Smoliv,21,sv1,1,0,0
+Arboliva,,sv1,0,1,0
+Charcadet,40,sv1,0,0,1
+Slowpoke,42,sv1,1,0,0
+Floatzel,,sv1,2,0,0
+Wiglett,55,sv1,1,0,0
+Cetoddle,59,sv1,0,0,1
+Pawmi,73,sv1,1,0,0
+Pawmi,74,sv1,1,0,0
+Wattrel,78,sv1,1,0,0
+Miraidon,,sv1,0,1,0
+Drowzee,82,sv1,0,0,1
+Hypno,,sv1,1,0,0
+Floette,,sv1,1,0,0
+Houndstone,,sv1,0,1,0
+Primeape,,sv1,1,0,0
+Medicham,111,sv1,0,0,1
+Lucario,,sv1,2,0,0
+Pawniard,,sv1,0,0,1
+Bombirdier,138,sv1,1,0,0
+Forretress,,sv1,1,0,0
+Zangoose,146,sv1,1,0,0
+Lechonk,154,sv1,1,0,1
+Tandemaus,159,sv1,1,0,0
+Flamigo,,sv1,1,0,0
+Beach Court,,sv1,1,0,0
+Electric Generator,,sv1,0,0,1
+Miriam,179,sv1,2,0,0
+Poke Ball,,sv1,1,0,0
+Rocky Helmet,,sv1,1,0,0
+Switch,,sv1,1,0,0
+Sprigatito,,sv1,0,2,1
+Fuecoco,,sv1,1,2,0
+Quaxly,,sv1,0,2,0
+Hoppip,,sv2,2,0,3
+Skiploom,,sv2,5,0,0
+Jumpluff,,sv2,0,3,1
+Pineco,,sv2,4,0,1
+Heracross,6,sv2,2,0,0
+Tropius,7,sv2,2,0,1
+Combee,,sv2,3,0,2
+Vespiquen,,sv2,1,0,1
+Snover,,sv2,3,0,1
+Abomasnow,,sv2,0,2,0
+Sprigatito,12,sv2,2,0,1
+Sprigatito,13,sv2,1,0,0
+Floragato,14,sv2,1,0,0
+Tarountula,16,sv2,2,0,0
+Tarountula,17,sv2,4,0,0
+Spidops,,sv2,2,0,0
+Nymble,20,sv2,2,0,0
+Lokix,,sv2,0,1,0
+Bramblin,23,sv2,2,0,0
+Brambleghast,,sv2,2,0,1
+Rellor,25,sv2,2,0,0
+Rellor,26,sv2,3,0,0
+Paldean Tauros,28,sv2,1,0,0
+Fletchinder,29,sv2,2,0,0
+Talonflame,,sv2,3,0,1
+Pyroar,32,sv2,4,0,0
+Oricorio,,sv2,0,1,0
+Fuecoco,34,sv2,1,0,2
+Fuecoco,35,sv2,2,0,0
+Crocalor,36,sv2,3,0,0
+Charcadet,38,sv2,2,0,0
+Charcadet,39,sv2,2,0,1
+Chi-Yu ex,40,sv2,0,2,0
+Paldean Tauros,41,sv2,1,0,1
+Magikarp,42,sv2,3,0,0
+Gyarados,,sv2,0,1,2
+Marill,44,sv2,4,0,0
+Azumarill,,sv2,2,0,0
+Delibird,,sv2,3,0,1
+Luvdisc,,sv2,3,0,1
+Eiscue,48,sv2,1,0,0
+Quaxly,49,sv2,2,0,0
+Quaxly,50,sv2,1,0,1
+Quaxwell,51,sv2,2,0,0
+Cetoddle,53,sv2,3,0,1
+Cetoddle,54,sv2,2,0,0
+Cetitan,55,sv2,3,0,1
+Veluza,56,sv2,0,2,0
+Frigibax,57,sv2,2,0,1
+Frigibax,58,sv2,3,0,0
+Arctibax,59,sv2,5,0,0
+Baxcalibur,60,sv2,0,2,1
+Pikachu,,sv2,4,0,1
+Pikachu ex,,sv2,0,1,0
+Raichu,64,sv2,4,0,1
+Magnemite,,sv2,2,0,1
+Voltorb,,sv2,3,0,0
+Electrode,,sv2,2,0,0
+Shinx,69,sv2,3,0,0
+Luxio,,sv2,3,0,0
+Luxray,,sv2,0,1,0
+Pincurchin,72,sv2,2,0,1
+Pincurchin,73,sv2,2,0,0
+Pawmi,,sv2,3,0,2
+Pawmo,,sv2,1,0,0
+Pawmot,,sv2,0,1,1
+Tadbulb,77,sv2,3,0,0
+Tadbulb,78,sv2,3,0,0
+Wattrel,80,sv2,1,0,0
+Wattrel,81,sv2,3,0,0
+Kilowattrel,,sv2,3,0,1
+Jigglypuff,,sv2,3,0,1
+Wigglytuff,,sv2,0,0,1
+Slowpoke,,sv2,3,0,1
+Slowking ex,86,sv2,0,1,0
+Misdreavus,,sv2,5,0,1
+Mismagius,88,sv2,3,0,0
+Spiritomb,,sv2,0,1,0
+Gothita,,sv2,3,0,1
+Gothorita,91,sv2,1,0,0
+Gothitelle,,sv2,5,0,1
+Oranguru,,sv2,2,0,0
+Sandygast,95,sv2,6,0,1
+Palossand,,sv2,5,0,0
+Mimikyu,,sv2,0,1,0
+Ceruledge,,sv2,0,3,0
+Rabsca,99,sv2,0,3,0
+Tinkatink,100,sv2,1,0,0
+Tinkatink,101,sv2,1,0,0
+Tinkatink,102,sv2,2,0,0
+Tinkatuff,103,sv2,1,0,0
+Tinkaton,,sv2,0,2,0
+Mankey,,sv2,4,0,1
+Primeape,,sv2,3,0,1
+Paldean Tauros,108,sv2,4,0,1
+Sudowoodo,,sv2,2,0,1
+Larvitar,,sv2,4,0,1
+Pupitar,,sv2,4,0,0
+Makuhita,,sv2,2,0,1
+Hariyama,,sv2,0,2,0
+Croagunk,,sv2,3,0,0
+Toxicroak,,sv2,3,0,0
+Rockruff,,sv2,3,0,1
+Lycanroc ex,,sv2,0,1,0
+Passimian,,sv2,1,0,0
+Falinks,,sv2,3,0,1
+Nacli,,sv2,2,0,0
+Nacli,121,sv2,1,0,0
+Naclstack,,sv2,1,0,0
+Garganacl,,sv2,0,3,1
+Glimmet,,sv2,1,0,1
+Glimmet,125,sv2,3,0,1
+Artazon,,sv2,1,0,0
+Glimmora,,sv2,0,1,0
+Boss's Orders,172,sv2,0,1,0
+Bravery Charm,,sv2,1,0,0
+Calamitous Snowy Mountain,,sv2,0,0,1
+Calamitous Wasteland,,sv2,0,0,2
+Choice Belt,,sv2,1,0,1
+Clavell,,sv2,3,0,0
+Delivery Drone,,sv2,1,0,1
+Dendra,179,sv2,4,0,1
+Falkner,180,sv2,3,0,0
+Fighting Au Lait,,sv2,1,0,1
+Giacomo,,sv2,4,0,1
+Great Ball,,sv2,3,0,1
+Grusha,184,sv2,3,0,2
+Iono,185,sv2,1,0,1
+Practice Studio,,sv2,1,0,1
+Saguaro,,sv2,1,0,1
+Super Rod,188,sv2,3,0,0
+Octillery (Team Plasma),,bw10,1,0,0
+Kangaskhan,,bw10,1,0,0
+Azelf,,bw10,1,0,0
+Archen,,bw10,1,0,0
+Meowth,,base5,1,0,0
+Psyduck,,base5,2,0,0
+Graveler,30,ex3,1,0,0
+Growlithe,,ex12,1,0,0
+Electrode,,ex12,1,0,0
+Girafarig,,ex12,1,0,0
+Claw Fossil,,ex12,1,0,0
+Power Tree,,ex12,1,0,0
+Skitty,,ex12,1,0,0
+Voltorb,,ex12,1,0,0
+Trapinch,,ex12,0,1,0
+Vibrava (Delta Species),,ex13,1,0,0
+Whiscash,,ex13,1,0,0
+Psyduck (Delta Species),,ex13,0,0,1
+Root Fossil,,ex13,1,0,0
+Deoxys (Delta Species,,ex13,0,1,0
+Phanpy,,ex13,1,0,0
+Pikachu,,ex13,2,0,0
+Pinsir,,dp3,1,0,0
+PlusPower,,dp3,3,0,1
+Phanpy,,dp3,3,0,0
+Nidoran M,,dp3,1,0,0
+Mareep,,dp3,3,0,0
+Miltank,,dp3,1,0,0
+Minun,,dp3,1,0,0
+Magmar,,dp3,0,0,1
+Gastrodon East Sea,,dp3,0,1,0
+Flaaffy,,dp3,2,0,0
+Electrode,,dp3,1,0,0
+Electabuzz,,dp3,4,0,0
+Duskull,,dp3,1,0,0
+Donphan,,dp3,1,0,0
+Golduck,,dp3,1,0,0
+Golem,,dp3,0,0,1
+Hoppip,,dp3,1,0,0
+Ivysaur,,dp3,1,0,0
+Kirlia,,dp3,1,0,0
+Lickitung,,dp3,3,0,0
+Diglett,,dp3,1,0,0
+Carvanha,,dp3,1,0,0
+Charizard,,dp3,0,1,0
+Charmander,,dp3,1,0,0
+Burmy Trash Cloak,,dp3,1,0,0
+Ampharos,,dp3,1,0,0
+Banette,,dp3,1,0,0
+Bebe's Search,,dp3,1,0,0
+Breloom,,dp3,1,0,0
+Roseanne's Research,,dp3,2,0,0
+Roselia,,dp3,1,0,0
+Sableye,,dp3,1,0,0
+Sentret,,dp3,1,0,0
+Psyduck,,dp3,2,0,0
+Potion,,dp3,3,0,0
+Professor Oak's Visit,,dp3,3,0,0
+Professor Rowan,,dp3,1,0,0
+Rattata,,dp3,1,0,0
+Quagsire,,dp3,1,0,0
+Shellder,,dp3,1,0,0
+Skiploom,,dp3,1,0,0
+Shellos West Sea,,dp3,1,0,0
+Shelgon,,dp3,2,0,0
+Shuppet,,dp3,2,0,0
+Shroomish,,dp3,2,0,0
+Stantler,,dp3,1,0,0
+Squirtle,,dp3,1,0,0
+Wormadam Plant Cloak,,dp3,1,0,0
+Voltorb,,dp3,1,0,0
+Unown [O],,dp3,1,0,0
+Switch,,dp3,1,0,0
+Swinub,,hgss4,1,0,1
+Tentacool,,hgss4,1,0,1
+Voltorb,,hgss4,1,0,0
+Venonat,,hgss4,2,0,0
+Yanma,,hgss4,1,0,0
+Yanmega,,hgss4,1,0,0
+Weepinbell,,hgss4,1,0,0
+Spoink,,hgss4,2,0,0
+Shuppet,,hgss4,2,0,0
+Skorupi,,hgss4,1,0,1
+Rescue Energy,,hgss4,1,0,1
+Porygon,,hgss4,1,0,0
+Seeker,,hgss4,2,0,0
+Bellsprout,,hgss4,1,0,0
+Altaria,,hgss4,0,1,0
+Aipom,,hgss4,1,0,0
+Carvanha,,hgss4,3,0,0
+Diglett,,hgss4,0,0,1
+Darkrai & Cresselia Legend (Top),,hgss4,0,1,0
+Lickilicky,,hgss4,1,0,1
+Lairon,,hgss4,1,0,0
+Kricketot,,hgss4,1,0,0
+Illumise,,hgss4,2,0,0
+Indigo Plateau,,hgss4,1,0,0
+Haunter,,hgss4,1,0,0
+Electrode,,hgss4,1,0,0
+Gastly,,hgss4,2,0,0
+Magmar,,hgss4,1,0,0
+Magmortar,,hgss4,1,0,0
+Mamoswine,,hgss4,0,1,0
+Magnemite,,hgss4,2,0,0
+Machoke,,hgss4,1,0,0
+Lickitung,,hgss4,1,0,0
+Nidoran M,,hgss4,1,0,0
+Nidorino,,hgss4,1,0,0
+Palkia & Dialga Legend (Top),,hgss4,0,1,0
+Piloswine,,hgss4,1,0,0
+Porygon2,,hgss4,1,0,0
+Ponyta,,hgss4,2,0,0
+Pidgey,,hgss4,1,0,0
+Magneton,,ex16,1,0,0
+Magnemite,,ex16,2,0,0
+Glacia's Stadium,,ex16,1,0,0
+Cacnea,,ex16,3,0,0
+Cacturne,,ex16,1,0,0
+Claw Fossil,,ex16,1,0,0
+Combusken,,ex16,0,0,1
+Beldum,,ex16,2,0,0
+Ralts,,ex16,1,0,0
+Slakoth,,ex16,1,0,0
+Spheal,,ex16,1,0,0
+Steven's Advice,,ex16,1,0,0
+Trapinch,,ex16,1,0,0
+Torchic,,ex16,2,0,0
+Whismur,,pl3,5,0,0
+Zubat,,pl3,1,0,0
+Staravia,,pl3,1,0,0
+Surskit,,pl3,1,0,0
+Spiritomb C,,pl3,1,0,0
+Shroomish,,pl3,1,0,0
+Seel,,pl3,0,0,1
+Sandshrew,,pl3,1,0,0
+Sableye G,,pl3,1,0,0
+Roserade,,pl3,1,0,0
+Rhydon,,pl3,1,0,0
+Baltoy,,pl3,1,0,0
+Bidoof,,pl3,2,0,0
+Buizel,,pl3,1,0,0
+Altaria C,,pl3,1,0,0
+Combee,,pl3,1,0,0
+Chingling,,pl3,1,0,0
+Chimchar,,pl3,1,0,0
+Cherrim,,pl3,1,0,0
+Chatot,,pl3,1,0,0
+Cherubi,,pl3,3,0,0
+Dewgong,,pl3,1,0,0
+Doduo,,pl3,1,0,0
+Corphish,,pl3,1,0,0
+Cyrus's Initiative,,pl3,1,0,0
+Honchkrow,,pl3,1,0,0
+Ivysaur,,pl3,1,0,0
+Geodude,,pl3,2,0,0
+Gible,,pl3,1,0,0
+Garchomp,,pl3,0,0,1
+Feebas,,pl3,1,0,0
+Drifblim,,pl3,2,0,0
+Drifloon,,pl3,1,0,0
+Magikarp,,pl3,1,0,0
+Loudred,,pl3,1,0,0
+Milotic,,pl3,0,0,1
+Mime Jr.,,pl3,1,0,0
+Mr. Mime,,pl3,0,0,1
+Murkrow,,pl3,1,0,0
+Medicham,,pl3,1,0,0
+Pinsir,,pl3,1,0,0
+Palmer's Contribution,,pl3,1,0,1
+Parasect,,pl3,1,0,0
+Mudkip,,pl3,2,0,0
+Palpitoad,,bw3,1,0,0
+Petilil,,bw3,1,0,0
+Dwebble,,bw3,1,0,0
+Eelektrik,,bw3,0,0,1
+Eviolite,,bw3,0,0,1
+Fraxure,,bw3,1,0,0
+Larvesta,20,bw3,1,0,0
+Heatmor,,bw3,1,0,0
+Golurk,,bw3,1,0,0
+Cover Fossil,,bw3,1,0,0
+Crustle,,bw3,1,0,0
+Cryogonal,32,bw3,1,0,0
+Carracosta,,bw3,1,0,0
+Archeops,,bw3,1,0,0
+Archen,,bw3,1,0,0
+Blitzle,,bw3,1,0,0
+Simisear,,bw3,1,0,0
+Stunfisk,42,bw3,1,0,0
+Stunfisk,68,bw3,1,0,0
+Volcarona,,bw3,0,0,1
+Yamask,45,bw3,1,0,0
+Victini,15,bw3,0,1,0
+Tynamo,39,bw3,1,0,0
+Trubbish,,bw3,1,0,0
+Venipede,,xy1,3,0,0
+Volbeat,,xy1,1,0,0
+Swirlix,,xy1,2,0,0
+Taillow,,xy1,1,0,0
+Xerneas,,xy1,1,1,0
+Whirlipede,,xy1,2,0,0
+Super Potion,,xy1,1,0,0
+Spoink,,xy1,2,0,0
+Spritzee,,xy1,2,0,0
+Slurpuff,,xy1,1,0,0
+Roller Skates,,xy1,1,0,0
+Scatterbug,,xy1,1,0,0
+Scolipede,,xy1,1,0,0
+Professor Sycamore,,xy1,1,0,0
+Professor's Letter,,xy1,2,0,0
+Pumpkaboo,,xy1,2,0,0
+Aromatisse,,xy1,1,0,0
+Doduo,,xy1,2,0,0
+Dodrio,,xy1,2,0,0
+Great Ball,,xy1,2,0,0
+Jigglypuff,88,xy1,2,0,0
+Evosoda,,xy1,1,0,0
+Fairy Garden,,xy1,1,0,0
+Ekans,,xy1,2,0,0
+Phantump,,xy1,2,0,0
+Max Revive,,xy1,1,0,0
+Mr. Mime,,xy1,2,0,0
+Grotle,,dp5,1,0,0
+Torterra,,dp5,1,0,0
+Toxicroak,,pl4,0,1,0
+Tangela,76,pl4,2,0,0
+Swalot,,pl4,0,1,0
+Treecko,79,pl4,2,0,0
+Ultimate Zone,,pl4,0,0,1
+Wingull,81,pl4,1,0,0
+Wormadam Sandy Cloak,,pl4,2,0,0
+Wormadam Trash Cloak,,pl4,1,0,0
+Wormadam Plant Cloak,,pl4,1,0,1
+Professor Oak's Visit,,pl4,1,0,0
+Sceptile,30,pl4,1,0,0
+Salamence,,pl4,0,1,0
+Shelgon,,pl4,1,0,0
+Snorunt,,pl4,1,0,0
+Gulpin,40,pl4,1,0,0
+Gulpin,66,pl4,1,0,0
+Grovyle,39,pl4,1,0,0
+Haunter,41,pl4,1,0,0
+Haunter,42,pl4,2,0,0
+Helix Fossil,,pl4,2,0,0
+Kabuto,,pl4,1,0,0
+Electrike,63,pl4,1,0,0
+Department Store Girl,,pl4,3,0,0
+Expert Belt,,pl4,1,0,1
+Gastly,64,pl4,1,0,0
+Lucky Egg,,pl4,1,0,0
+Manectric,44,pl4,1,0,0
+Pikachu,,pl4,1,0,0
+Ponyta,46,pl4,1,0,0
+Pelipper,45,pl4,1,0,0
+Nosepass,,pl4,2,0,0
+Omanyte,,pl4,1,0,0
+Dome Fossil,,pl4,3,0,1
+Croagunk,,pl4,3,0,0
+Cherubi,,pl4,1,0,0
+Burmy Trash Cloak,,pl4,2,0,0
+Charmeleon,,pl4,1,0,0
+Arceus (AR4),,pl4,0,1,0
+Aerodactyl,,pl4,1,0,0
+Beedrill G,,pl4,2,0,0
+Beginning Door,,pl4,1,0,0
+Burmy Plant Cloak,,pl4,2,0,0
+Bronzor,34,pl4,1,0,1
+Bronzor,54,pl4,1,0,0
+Buffer Piece,,pl4,1,0,0
+Potion,,ex1,2,0,0
+Energy Search,,ex1,2,0,0
+Slakoth,,ex1,0,0,1
+Ralts,68,ex1,0,0,1
+Swampert,23,ex1,1,0,0
+Corviknight,,sv2,3,0,2
+Superior Energy Retrieval,189,sv2,0,0,1
+Jet Energy,,sv2,1,0,1
+Luminous Energy,,sv2,2,0,1
+Reversal Energy,,sv2,1,0,2
+Cufant,,sv2,2,0,0
+Therapeutic Energy,,sv2,1,0,1
+Copperajah ex,,sv2,0,1,0
+Noibat,,sv2,3,0,1
+Girafarig,,sv2,3,0,1
+Farigiraf,,sv2,2,0,1
+Dunsparce,,sv2,3,0,0
+Dudunsparce,,sv2,3,0,0
+Wingull,,sv2,5,0,1
+Pelipper,,sv2,3,0,1
+Slakoth,,sv2,4,0,0
+Vigoroth,,sv2,2,0,0
+Slaking,,sv2,0,3,0
+Paldean Wooper,,sv2,2,0,1
+Fletchling,,sv2,3,0,1
+Rookidee,,sv2,3,0,1
+Corvisquire,,sv2,2,0,1
+Tandemaus,166,sv2,2,0,0
+Tandemaus,167,sv2,3,0,0
+Maushold,,sv2,3,0,1
+Flamigo,,sv2,4,0,0
+Murkrow,,sv2,6,0,1
+Honchkrow,,sv2,2,0,1
+Sneasel,,sv2,4,0,1
+Weavile,,sv2,0,3,0
+Tyranitar,135,sv2,0,2,0
+Sprigatito,196,sv2,0,1,0
+Quaxly,206,sv2,0,1,0
+Gothorita,213,sv2,0,1,0
+Flamigo,227,sv2,0,1,0
+Sableye,,sv2,0,2,0
+Seviper,,sv2,3,0,0
+Deino,,sv2,4,0,1
+Chien-Pao ex,236,sv2,0,1,0
+Zweilous,,sv2,4,0,0
+Hydreigon,,sv2,0,2,2
+Maschiff,142,sv2,3,0,1
+Mabosstiff,,sv2,2,0,1
+Shroodle,,sv2,1,0,0
+Shroodle,145,sv2,3,0,1
+Grafaiai,,sv2,2,0,1
+Bombirdier,,sv2,4,0,1
+Falkner,251,sv2,0,1,0
+Saguaro,255,sv2,0,1,0
+Tinkaton ex,262,sv2,0,1,0
+Squawkabilly ex,264,sv2,0,1,0
+Giacomo,267,sv2,0,1,0
+Saguaro,270,sv2,0,1,0
+Super Rod,276,sv2,0,1,0
+Litleo,,sv2,3,0,0
+Treecko,,ex14,1,0,0
+Skitty,,ex14,1,0,0
+Spearow,,ex14,1,0,0
+Squirtle,63,ex14,1,0,0
+Energy Search,,ex14,1,0,0
+Krabby,,ex14,2,0,0
+Kingler (Delta Species),,ex14,1,0,0
+Mudkip,57,ex14,1,0,0
+Memory Berry,,ex14,1,0,0
+Mantine,,neo1,4,0,0
+Pikachu,,neo1,1,0,0
+Hoothoot,,neo1,1,0,0
+Horsea,,neo1,3,0,0
+Chikorita,53,neo1,1,0,0
+Snubbull,,neo1,1,0,0
+Sudowoodo,,neo1,1,0,0
+Totodile,80,neo1,1,0,0
+Unown (S),,ex10,0,1,0
+Smoochum,,ex10,1,0,0
+Slowpoke,,ex10,2,0,0
+Quagsire,,ex10,1,0,0
+Gloom,,ex10,1,0,0
+Energy Removal 2,,ex10,1,0,0
+Emcee's Chatter,,hgss2,2,0,0
+Energy Returner,,hgss2,1,0,0
+Engineer's Adjustments,,hgss2,1,0,0
+Jirachi,,hgss2,0,0,1
+Lanturn (Prime),,hgss2,0,1,0
+Larvitar,50,hgss2,1,0,0
+Poliwhirl,,hgss2,1,0,0
+Poliwrath,,hgss2,1,0,0
+Plusle,,hgss2,1,0,0
+Pokemon Circulator,,hgss2,1,0,0
+Onix,57,hgss2,2,0,0
+Natu,,hgss2,1,0,0
+Mankey,,hgss2,1,0,0
+Magmar,,hgss2,1,0,0
+Lucario,,hgss2,1,0,0
+Life Herb,,hgss2,0,0,1
+Chinchou,,hgss2,1,0,0
+Cherubi,,hgss2,1,0,0
+Beldum,,hgss2,2,0,0
+Aipom,,hgss2,2,0,0
+Pupitar,38,hgss2,2,0,0
+Roselia,,hgss2,1,0,0
+Steelix,,hgss2,0,0,1
+Super Scoop Up,,hgss2,1,0,0
+Squirtle,,hgss2,2,0,0
+Tyranitar,,hgss2,0,0,1
+Turtwig,,hgss2,1,0,0
+Teddiursa,,hgss2,1,0,0
+Zubat,,hgss2,1,0,0
+Zebstrika,42,bw1,2,0,0
+Zoroark,,bw1,1,0,0
+Zorua,,bw1,2,0,0
+Woobat,,bw1,2,0,0
+Whirlipede,,bw1,1,0,1
+Throh,,bw1,1,0,0
+Tepig,15,bw1,3,0,0
+Switch,,bw1,1,0,0
+Timburr,58,bw1,0,0,1
+Timburr,59,bw1,4,0,0
+Unfezant,,bw1,1,0,0
+Vullaby,,bw1,2,0,0
+Venipede,,bw1,2,0,1
+Solosis,,bw1,3,0,0
+Snivy,1,bw1,2,0,0
+Simipour,,bw1,3,0,0
+Simisage,,bw1,1,0,0
+Samurott,31,bw1,1,0,0
+Sawk,,bw1,1,0,0
+Scrafty,,bw1,1,0,0
+Scraggy,,bw1,1,0,0
+Serperior,6,bw1,0,0,1
+Servine,4,bw1,1,0,0
+Purrloin,,bw1,1,0,0
+Revive,,bw1,4,0,0
+Alomomola,38,bw1,1,0,0
+Alomomola,39,bw1,1,0,0
+Audino,,bw1,1,0,0
+Blitzle,41,bw1,1,0,0
+Bouffalant,90,bw1,1,0,0
+Dewott,30,bw1,1,0,0
+Darmanitan,,bw1,1,0,1
+Darumaka,23,bw1,1,0,0
+Darumaka,24,bw1,2,0,0
+Deerling,,bw1,2,0,0
+Lillipup,81,bw1,1,0,0
+Maractus,11,bw1,2,0,0
+Minccino,,bw1,1,0,0
+Oshawott,27,bw1,2,0,0
+Oshawott,28,bw1,1,0,0
+Petilil,,bw1,2,0,0
+Patrat,78,bw1,1,0,0
+Panpour,,bw1,2,0,0
+Pansage,,bw1,1,0,0
+Pansear,,bw1,2,0,0
+PlusPower,,bw1,1,0,0
+Pokedex,,bw1,2,0,1
+Pignite,17,bw1,1,0,0
+Pidove,,bw1,2,0,0
+Joltik,44,bw1,1,0,0
+Joltik,45,bw1,2,0,1
+Klang,,bw1,1,0,0
+Herdier,,bw1,1,0,0
+Energy Search,,bw1,3,0,1
+Galvantula,,bw1,1,0,0
+Energy Retrieval,,bw1,2,0,0
+Duosion,,bw1,1,0,0
+Ducklett,,bw1,0,0,1
+Pidove,11,mcd11,0,2,0
+Oshawott,4,mcd11,0,1,0
+Audino,12,mcd11,0,2,0
+Sandile,8,mcd11,0,2,0
+Snivy,1,mcd11,0,1,0
+Tepig,3,mcd11,0,2,0
+Zorua,9,mcd11,0,2,0
+Totodile,,hgss1,1,0,0
+Raichu,,hgss1,0,1,0
+Pikachu,,hgss1,1,0,0
+Exeggcute,,hgss1,1,0,0
+Drifloon,,hgss3,1,0,0
+Eevee,48,hgss3,1,0,0
+Gloom,,hgss3,1,0,0
+Pikachu,,hgss3,1,0,0
+Oddish,,hgss3,1,0,0
+Murkrow,59,hgss3,0,0,1
+Metang,,hgss3,1,0,0
+Alph Lithograph,,hgss3,1,0,0
+Beldum,,hgss3,1,0,0
+Darkness Energy (Special),,hgss3,1,0,0
+Raticate,,hgss3,1,0,0
+Scyther,65,hgss3,1,0,0
+Sneasel,,hgss3,1,0,0
+Togepi,,hgss3,1,0,0
+Zangoose,,dp4,1,0,0
+Weezing,,dp4,1,0,0
+Weedle,,dp4,1,0,0
+Whismur,,dp4,1,0,0
+Slowbro,,dp4,1,0,0
+Snubbull,,dp4,1,0,0
+Arbok,,dp4,1,0,0
+Lunatone,,dp4,1,0,0
+Makuhita,,dp4,1,0,0
+Glameow,,dp4,1,0,0
+Hariyama,,dp4,1,0,0
+Lickitung,,pl1,1,0,0
+Giratina,27,pl1,1,0,0
+Life Herb,,pl1,1,0,0
+Piplup,,pl1,1,0,0
+Poochyena,,pl1,1,0,0
+Chimchar,,pl1,1,0,0
+Psyduck,,pl1,1,0,0
+Probopass,,pl1,0,0,1
+Wartortle,,pl1,1,0,0
+Vigoroth,,pl1,1,0,0
+Tepig,,bwp,0,1,0
+Oshawott,,bwp,0,1,0
+Ducklett,,bwp,0,1,0
+Ekans (Delta Species),,ex15,1,0,0
+Larvitar (Delta Species),,ex15,1,0,0
+Kirlia (Delta Species),,ex15,1,0,0
+Ledyba (Delta Species),,ex15,1,0,0
+Mantine (Delta Species),,ex15,1,0,0
+Togepi (Delta Species),,ex15,1,0,0
+TV Reporter,,ex15,1,0,0
+Trapinch,69,ex15,1,0,0
+Pupitar,,ex15,0,0,1
+Ralts (Delta Species),,ex15,1,0,0
+Swablu (Delta Species),,ex15,2,0,0
+Staryu,,bw4,1,0,0
+Starmie,,bw4,0,0,1
+Simisear,,bw4,1,0,0
+Shinx,42,bw4,1,0,0
+Reshiram,,bw4,0,0,1
+Riolu,,bw4,1,0,0
+Vanillish,,bw4,1,0,0
+Kricketot,,bw4,1,0,0
+Hippowdon,,bw4,1,0,0
+Emolga,,bw4,1,0,0
+Ferroseed,,bw4,0,0,1
+Cilan,,bw4,1,0,0
+Cubchoo,,bw4,1,0,0
+Arcanine,13,bw4,1,0,0
+Giratina (Team Plasma),,bw8,1,0,0
+Gallade,,bw8,0,0,1
+Mareep,,pop7,1,0,0
+Burmy Sandy Cloak,,pop7,1,0,0
+Burmy Plant Cloak,,pop7,1,0,0
+Wormadam Sandy Cloak,,pop7,1,0,0
+Totodile,,col1,1,0,0
+Teddiursa,,col1,2,0,0
+Tangela,,col1,1,0,0
+Riolu,,col1,1,0,0
+Research Record,,col1,1,0,0
+Quilava,,col1,1,0,0
+Professor Elm's Training Method,,col1,1,0,0
+Slowking,,col1,1,0,0
+Snorlax,,col1,0,0,1
+Slowpoke,,col1,1,0,0
+Bayleef,,col1,1,0,0
+Cyndaquil,,col1,2,0,1
+Copycat,,col1,1,0,0
+Chikorita,,col1,1,0,0
+Cheerleader's Cheer,,col1,1,0,0
+Mawile,,col1,1,0,0
+Misdreavus,,col1,1,0,0
+Magby,,col1,1,0,0
+Magikarp,,col1,1,0,0
+Pachirisu,,col1,0,0,1
+Phanpy,,col1,1,0,0
+Pidgeot,,col1,2,0,0
+Pidgeotto,,col1,1,0,0
+Pidgey,,col1,1,0,0
+Flaaffy,,col1,1,0,0
+Dual Ball,,col1,1,0,0
+Eevee,,col1,1,0,0
+Donphan,,col1,2,0,0
+Hitmonchan,,col1,1,0,0
+Hitmonlee,,col1,2,0,0
+Groudon,,col1,0,1,0
+Koffing,,col1,1,0,0
+Ledyba,,dp6,1,0,0
+Gloom,97,dp6,1,0,0
+Horsea,,dp6,1,0,0
+Hitmonlee,,dp6,2,0,0
+Drifblim,,dp6,0,0,1
+Exeggutor,,dp6,2,0,0
+Poochyena,,dp6,1,0,0
+Ninjask,,dp6,1,0,0
+Oddish,112,dp6,1,0,0
+Numel,,dp6,1,0,0
+Lucario,,dp6,1,0,0
+Lileep,,dp6,1,0,0
+Misdreavus,,dp6,1,0,0
+Meowth,,dp6,0,0,1
+Camerupt,,dp6,1,0,0
+Delcatty,,dp6,0,0,1
+Deoxys Attack Forme,,dp6,1,0,0
+Buneary,,dp6,1,0,0
+Bubble Coat,,dp6,1,0,0
+Sneasel,,dp6,1,0,0
+Staryu,,dp6,1,0,0
+Starmie,,dp6,1,0,0
+Snowpoint Temple,,dp6,1,0,0
+Regigigas,37,dp6,1,0,0
+Tyrogue,,dp6,1,0,0
+Unown (!),,dp6,1,0,0
+Unown (R),,dp6,1,0,0
+Yanma,,dp6,1,0,0
+Weepinbell,,dp6,1,0,0
+Mew,8,basep,1,0,0
+Pansear,,bw2,2,0,0
+Ferroseed,70,bw2,1,0,0
+Drilbur,55,bw2,2,0,0
+Emolga,,bw2,2,0,0
+Gothita,43,bw2,1,0,0
+Gothorita,46,bw2,1,0,0
+Krokorok,,bw2,1,0,1
+Beartic,31,bw2,1,0,0
+Boldore,51,bw2,1,0,0
+Boldore,52,bw2,1,0,0
+Audino,,bw2,0,0,1
+Deerling,,bw2,1,0,0
+Zorua,,bw2,1,0,0
+Vullaby,,bw2,2,0,0
+Swanna,,bw2,1,0,0
+Throh,,bw2,1,0,0
+Tornadus,,bw2,1,0,0
+Swadloon,6,bw2,1,0,0
+Servine,1,mcd12,0,2,0
+Dewott,5,mcd12,0,1,0
+Axew,12,mcd12,0,1,0
+Klang,11,mcd12,0,1,0
+Koffing,,ex7,2,0,0
+Dratini,52,ex7,2,0,0
+Pokemon Retriever,,ex7,2,0,0
+Marill,,ex7,2,0,0
+Magnemite,,ex7,1,0,0
+Azumarill,,ex7,1,0,0
+Dark Dragonair,31,ex7,1,0,0
+Dark Magneton,,ex7,1,0,0
+Dark Weezing,,ex7,1,0,0
+Rocket's Meowth,,ex7,1,0,0
+Rocket's Mission,,ex7,2,0,0
+Rattata,72,ex7,1,0,0
+Quagsire,,ex7,1,0,0
+Wooper,,ex7,1,0,0
+Unown [C],,dp1,1,0,0
+Rapidash,,dp1,2,0,0
+Stunky,,dp1,1,0,0
+Shinx,,dp1,1,0,0
+Cherrim,,dp1,1,0,0
+Chimchar,,dp1,2,0,0
+Cleffa,,dp1,1,0,0
+Buizel,,dp1,1,0,0
+Magnemite,,dp1,1,0,0
+Medicham,,dp1,1,0,0
+Meditite,,dp1,1,0,0
+Ponyta,,dp1,1,0,0
+Night Pokemon Center,,dp1,2,0,0
+Energy Search,,dp1,2,0,0
+Glameow,,dp1,1,0,0
+Hoothoot,,dp1,1,0,0
+Cherubi,,pop6,1,0,0
+Tyrogue,,neo2,2,0,0
+Sabrina's Abra,93,gym2,1,0,0
+Sabrina's Drowzee,,gym2,1,0,0
+Sabrina's Gastly,96,gym2,2,0,0
+Koga's Ekans,,gym2,1,0,0
+Koga's Grimer,,gym2,1,0,0
+Koga's Weezing,,gym2,1,0,0
+Misty's Staryu,,gym1,1,0,0
+Lt. Surge's Rattata,,gym1,1,0,0
+Blaine's Gamble,,gym1,1,0,0
+Blaine's Growlithe,62,gym1,1,0,0
+Croagunk,,pop8,1,0,0
+Luxio,,pop8,1,0,0
+Heatran,,pop8,0,1,0
+Seedot,,xy2,3,0,0
+Litleo,18,xy2,1,0,0
+Luvdisc,,xy2,1,0,0
+Buizel,,xy2,1,0,0
+Shinx,,xy2,1,0,0
+Luxio,,xy2,1,0,0
+Skrelp,,xy2,1,0,0
+Krokorok,,xy2,1,0,0
+Buneary,,xy2,1,0,0
+Pokemon Fan Club,,xy2,1,0,0
+Machop,,xy3,2,0,0
+Trapinch,,xy3,1,0,0
+Pancham,60,xy3,1,0,0
+VS Seeker,,xy4,1,0,0
+Croconaw,,xy4,1,0,0
+Lampent,,xy4,1,0,0
+Pumpkaboo,,xy4,1,0,0
+Tangela,,xy5,1,0,0
+Illumise,,xy5,1,0,0
+Honedge,,xy5,1,0,0
+Energy Retrieval,,xy5,2,0,0
+Gardevoir Spirit Link,,xy5,1,0,0
+Aggron Spirit Link,,xy5,1,0,0
+Tierno,,xy0,2,0,0
+Team Magma's Numel,,dc1,1,0,0
+Wingull,,xy6,1,0,0
+Latios Spirit Link,,xy6,2,0,0
+Sableye,,xy7,1,0,1
+Meowth,,xy7,1,0,0
+Starmie,,xy8,1,0,0
+Piplup,,xy8,1,0,0
+Assault Vest,,xy8,2,0,0
+Professor's Letter,,xy8,2,0,0
+Shuckle,,xy10,1,0,0
+Larvitar,41,xy10,1,0,0
+Minccino,87,xy10,1,0,0
+Shauna,,xy10,1,0,0
+Ultra Ball,,xy10,1,0,0
+Hoppip,,xy11,2,0,0
+Foongus,,xy11,1,0,0
+Chimchar,,xy11,1,0,0
+Bergmite,,xy11,1,0,0
+Mareep,,xy11,3,0,0
+Flaaffy,,xy11,2,0,0
+Ampharos,,xy11,2,0,0
+Joltik,,xy11,3,0,0
+Galvantula,,xy11,1,0,0
+Drifloon,,xy11,3,0,0
+Drifblim,,xy11,2,0,0
+Litwick,,xy11,3,0,0
+Lampent,,xy11,2,0,0
+Hoopa,,xy11,1,1,0
+Aipom,,xy11,4,0,0
+Ambipom,,xy11,2,0,0
+Hawlucha,,xy11,5,0,0
+Ninja Boy,,xy11,2,0,0
+Steelix Spirit Link,,xy11,1,0,0
+Machamp,8,base1,0,1,0
+Caterpie,,xy12,1,0,0
+Metapod,,xy12,1,0,0
+Tangela,,xy12,1,0,0
+Vulpix,,xy12,1,0,0
+Ponyta,,xy12,1,0,0
+Magmar,,xy12,1,0,0
+Magnemite,,xy12,2,0,0
+Haunter,,xy12,1,0,0
+Koffing,,xy12,2,0,0
+Sandshrew,,xy12,1,0,0
+Machop,,xy12,1,0,0
+Raticate,,xy12,1,0,0
+Doduo,,xy12,2,0,0
+Charizard Spirit Link,,xy12,1,0,0
+Devolution Spray,,xy12,1,0,0
+Pidgeot Spirit Link,,xy12,1,0,0
+Popplio,,smp,0,1,0
+Litten,,smp,0,1,0
+Bounsweet,,sm1,2,0,0
+Litten,,sm1,1,0,0
+Psyduck,,sm1,2,0,0
+Corsola,,sm1,1,0,0
+Wingull,,sm1,1,0,0
+Alolan Grimer,,sm1,1,0,0
+Drowzee,,sm1,1,0,0
+Cosmog,,sm1,0,0,1
+Sandygast,,sm1,1,0,0
+Krokorok,,sm1,1,0,0
+Cutiefly,,sm1,1,0,0
+Dratini,,sm1,1,0,0
+Eevee,,sm1,0,1,0
+Lillipup,,sm1,2,0,0
+Herdier,,sm1,1,0,0
+Trumbeak,,sm1,1,0,0
+Stufful,,sm1,1,0,0
+Great Ball,,sm1,1,0,0
+Hau,,sm1,1,0,0
+Poison Barb,,sm1,1,0,0
+Pokemon Catcher,,sm1,1,0,0
+Potion,,sm1,1,0,0
+Bellsprout,,sm2,2,0,0
+Weepinbell,,sm2,1,0,0
+Phantump,,sm2,1,0,0
+Carvanha,,sm2,1,0,0
+Vanillite,,sm2,1,0,0
+Alolan Geodude,,sm2,1,0,0
+Nosepass,,sm2,1,0,0
+Sliggoo,,sm2,1,0,0
+Taillow,,sm2,2,0,0
+Castform,,sm2,1,0,0
+Watchog,,sm2,1,0,0
+Simisage,,sm3,1,0,0
+Charmander,,sm3,0,2,0
+Alolan Vulpix,,sm3,4,0,0
+Horsea,,sm3,1,0,0
+Panpour,,sm3,1,0,0
+Rhyhorn,,sm3,1,0,0
+Mudsdale,,sm3,1,0,0
+Ralts,,sm3,2,0,0
+Cutiefly,,sm3,1,0,0
+Porygon-Z,,sm3,0,1,0
+Bulbasaur,,sm35,1,0,0
+Gastly,,sm4,2,0,0
+Zweilous,,sm4,1,0,0
+Aron,,sm4,1,0,0
+Hakamo-o,,sm4,2,0,0
+Diggersby,,sm4,2,0,0
+Lusamine,,sm4,1,0,0
+Alolan Diglett,9,mcd17,0,1,0
+Cutiefly,10,mcd17,0,1,0
+Magmar,,sm5,3,0,0
+Salandit,,sm5,1,0,0
+Electabuzz,,sm5,2,0,0
+Shinx,46,sm5,1,0,0
+Lickitung,,sm5,3,0,0
+Espurr,,sm6,1,0,0
+Cubone,,sm6,1,1,0
+Pancham,,sm6,1,0,0
+Rockruff,,sm6,1,0,0
+Dedenne,,sm6,1,0,0
+Bellsprout,,sm7,1,0,0
+Clamperl,,sm7,1,0,0
+Luvdisc,,sm7,1,0,0
+Horsea,15,sm75,1,0,0
+Feebas,,sm75,1,0,0
+Trapinch,,sm75,1,0,0
+Flygon,,sm75,1,0,0
+Bagon,,sm75,1,0,0
+Hakamo-o,,sm75,1,0,0
+Kangaskhan,,sm75,2,0,0
+Chikorita,5,sm8,1,0,0
+Beautifly,,sm8,1,0,0
+Vespiquen,,sm8,1,0,0
+Alolan Vulpix,,sm8,1,0,0
+Slowpoke,,sm8,2,0,0
+Popplio,65,sm8,3,0,0
+Electabuzz,,sm8,3,0,0
+Blitzle,,sm8,2,0,0
+Stunfisk,,sm8,4,0,0
+Dedenne,84,sm8,2,0,0
+Lampent,,sm8,2,0,0
+Mareanie,105,sm8,1,0,0
+Onix,,sm8,3,0,0
+Sudowoodo,,sm8,2,0,0
+Larvitar,115,sm8,1,0,0
+Carbink,117,sm8,4,0,0
+Durant,,sm8,1,0,0
+Stantler,,sm8,1,0,0
+Pikipek,164,sm8,1,0,0
+Psyduck,,sm9,1,0,0
+Staryu,,sm9,1,0,0
+Alolan Geodude,34,sm9,2,0,0
+Alolan Graveler,,sm9,2,0,0
+Poochyena,,sm9,2,0,0
+Honedge,,sm9,1,0,0
+Pidgeotto,,sm9,1,0,0
+Caterpie,,sm10,1,0,0
+Oddish,6,sm10,1,0,0
+Grubbin,,sm10,1,0,0

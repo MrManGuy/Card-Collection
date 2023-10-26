@@ -1,0 +1,11 @@
+Only need to run every new set (or update the files manually)
+1. Run tcg_to_api.py
+    This file asks for what tcg set correlates to what api set, outputs to pokemon_tcg_ids.json
+2. Run sets_to_json.py
+    This file pulls all cards from all sets and creates a corresponding json file
+
+Run everytime inventory is updated
+3. Run inventory_csv_fixing.py
+    This file creates a new file called pokemon_fixed_cards.csv where the set as listed on the api and any number in the name is the number in the set
+4. Run set_totaling.py
+    This file goes over the cards in pokemon_fixed_cards.csv and adds the counts to the corresponding Sets/set 
