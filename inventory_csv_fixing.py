@@ -2,7 +2,7 @@ import json, re, time
 
 def main():
     #Open the csv file with all cards
-    with open("tcginventory-7-18-23.csv", newline='') as inventory:
+    with open("tcginventory-7-29-24.csv", newline='') as inventory:
         inventory = [x.strip("\r\n").split(",") for x in inventory]
         
         with open("pokemon_tcg_ids.json") as pokemon_ids:
@@ -33,7 +33,7 @@ def main():
                             card_num = str(int(card_name_list[1].split("/")[0].strip()))
 
                     #If the card contains a set number in parathesis seperated that
-                    if re.search("\([0-9]+\)", card_name) != None:
+                    if re.search("[(][0-9]+[)]", card_name) != None:
                         card_name_list = card_name.split("(")
                         card_num = str(int(card_name_list[1][:-1]))
                         card_name = card_name_list[0].strip()
